@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0035/zhsj/v1/juan/62
+seq: 62
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金史卷六十二表第四交聘表下
+  hash: sha256:0ddd1e22c709f903025b53f1d2f1a9d648da16c000405b61425cbb2f76eb962f
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0035_ZHSJ_062-d62h1s1}
+metadata:
+  title: 金史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0035.xml
+hash: sha256:51c1b3974105625ba45d9f747298229e4a31dfe6f02b1a1859249be057b29e18

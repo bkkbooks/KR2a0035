@@ -1,0 +1,20 @@
+canonical_identifier: bkk:krp/KR2a0035/krp/v1/juan/61
+seq: 61
+front:
+  text: 欽定四庫全書
+  hash: sha256:64d9ff2e7643d8cd3464e7f4c9e75c7d6d85eb6ee80c540d6dcbeeab187b9ddc
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2a0035_WYG_061-1a, image: WYG0290/WYG0290-0749a.png}
+body:
+  text: 金史卷六十一元中書右丞相總裁托克托等修表第三交聘表中金史卷六十一
+  hash: sha256:1162b4d9382685b62e374b453b5fe2785141c110db09c2c331977b8602fa4a23
+metadata:
+  title: 金史
+  edition:
+    short: krp
+  date: '2015-08-24 22:22:22.623467'
+  juan_title: 卷六十一
+  source:
+    repository: kanripo
+    path: KR2a0035/KR2a0035_061.txt
+hash: sha256:406bcb4c647ee780d77c123708bca55a56e9f1670fb95af3f1b07d641cad7519

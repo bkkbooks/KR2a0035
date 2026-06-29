@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2a0035/zhsj/v1/juan/61
+seq: 61
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 金史卷六十一表第三交聘表中
+  hash: sha256:fb1495c43664dc8641603c0661cded78ebbfdac5fd4f05c524595edfc4db5f85
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2a0035_ZHSJ_061-d61h1s1}
+metadata:
+  title: 金史
+  edition:
+    short: zhsj
+  source:
+    repository: tls-texts
+    path: data/tls/KR2a0035.xml
+hash: sha256:47501e1ed593df8395c88cd5fcae4a3f9e0e8d90517ca47e7eb9ac6ef320cc5f

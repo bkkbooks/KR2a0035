@@ -1,0 +1,71 @@
+canonical_identifier: bkk:krp/KR2a0035/bkk/v1/markers/61
+seq: 61
+markers:
+  front:
+  - {type: variant, offset: 0, length: 0, content: '', WYG: 欽定四庫全書}
+  - {type: page-break, offset: 0, content: '', id: KR2a0035_WYG_061-1a, image: WYG0290/WYG0290-0749a.png}
+  - {type: variant, offset: 0, length: 0, content: '', krp: 欽定四庫全書}
+  body:
+  - {type: page-break, offset: 0, content: '', id: KR2a0035_ZHSJ_061-1417a}
+  - {type: line-break, offset: 0, content: '', id: ZHSJ__dup16535}
+  - {type: xml-element, offset: 6, content: '', id: KR2a0035_ZHSJ_061-bkkxmlele1}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR2a0035_ZHSJ_061-d61p1s1}
+  - {type: line-break, offset: 6, content: '', id: ZHSJ__dup16536}
+  - {type: variant, offset: 6, length: 0, content: '', WYG: 元中書右丞相總裁托克托等修}
+  - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
+  - {type: line-break, offset: 9, content: '', id: ZHSJ__dup16537}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_ZHSJ_061-1451a}
+  - {type: xml-element, offset: 13, content: '', id: KR2a0035_ZHSJ_061-bkkxmlele2}
+  - {type: xml-element, offset: 13, content: '', id: KR2a0035_ZHSJ_061-d61n1}
+  - {type: xml-element, offset: 13, content: '', id: KR2a0035_ZHSJ_061-d61n1_end}
+  - {type: variant, offset: 13, length: 0, content: '', WYG: 金史卷六十一}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-2a, image: WYG0290/WYG0290-0750a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-3a, image: WYG0290/WYG0290-0750c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-4a, image: WYG0290/WYG0290-0751a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-5a, image: WYG0290/WYG0290-0751c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-6a, image: WYG0290/WYG0290-0752a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-7a, image: WYG0290/WYG0290-0752c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-8a, image: WYG0290/WYG0290-0753a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-9a, image: WYG0290/WYG0290-0753c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-10a, image: WYG0290/WYG0290-0754a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-11a, image: WYG0290/WYG0290-0754c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-12a, image: WYG0290/WYG0290-0755a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-13a, image: WYG0290/WYG0290-0755c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-14a, image: WYG0290/WYG0290-0756a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-15a, image: WYG0290/WYG0290-0756c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-16a, image: WYG0290/WYG0290-0757a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-17a, image: WYG0290/WYG0290-0757c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-18a, image: WYG0290/WYG0290-0758a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-19a, image: WYG0290/WYG0290-0758c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-20a, image: WYG0290/WYG0290-0759a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-21a, image: WYG0290/WYG0290-0759c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-22a, image: WYG0290/WYG0290-0760a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-23a, image: WYG0290/WYG0290-0760c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-24a, image: WYG0290/WYG0290-0761a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-25a, image: WYG0290/WYG0290-0761c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-26a, image: WYG0290/WYG0290-0762a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-27a, image: WYG0290/WYG0290-0762c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-28a, image: WYG0290/WYG0290-0763a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-29a, image: WYG0290/WYG0290-0763c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-30a, image: WYG0290/WYG0290-0764a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-31a, image: WYG0290/WYG0290-0764c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-32a, image: WYG0290/WYG0290-0765a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-33a, image: WYG0290/WYG0290-0765c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-34a, image: WYG0290/WYG0290-0766a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-35a, image: WYG0290/WYG0290-0766c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-36a, image: WYG0290/WYG0290-0767a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-37a, image: WYG0290/WYG0290-0767c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-38a, image: WYG0290/WYG0290-0768a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-39a, image: WYG0290/WYG0290-0768c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-40a, image: WYG0290/WYG0290-0769a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-41a, image: WYG0290/WYG0290-0769c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-42a, image: WYG0290/WYG0290-0770a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-43a, image: WYG0290/WYG0290-0770c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-44a, image: WYG0290/WYG0290-0771a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-45a, image: WYG0290/WYG0290-0771c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-46a, image: WYG0290/WYG0290-0772a.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-47a, image: WYG0290/WYG0290-0772c.png}
+  - {type: page-break, offset: 13, content: '', id: KR2a0035_WYG_061-47b, image: WYG0290/WYG0290-0772d.png}
+  - {type: variant, offset: 13, length: 0, content: '', krp: 金史卷六十一}
+  back: []
+hash: sha256:4b5557641e7cdafef6a169e2ac8f057c78e4551e5b16a77368b37129d8ac69bb
