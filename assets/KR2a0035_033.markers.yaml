@@ -1059,6 +1059,7 @@ markers:
   - {type: punctuation, offset: 2344, content: ，, id: KR2a0035_ZHSJ_033-bkkpn423}
   - {type: 'tls:seg', offset: 2344, content: '', id: KR2a0035_ZHSJ_033-d33p24s38}
   - {type: punctuation, offset: 2344, content: (, id: KR2a0035_ZHSJ_033-bkkpn424}
+  - {type: voice, offset: 2344, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2348, content: ．, id: KR2a0035_ZHSJ_033-bkkpn425}
   - {type: 'tls:seg', offset: 2348, content: '', id: KR2a0035_ZHSJ_033-d33p24s39}
   - {type: punctuation, offset: 2348, content: ), id: KR2a0035_ZHSJ_033-bkkpn426}
@@ -2654,4 +2655,4 @@ markers:
   - {type: page-break, offset: 5415, content: '', id: KR2a0035_WYG_033-17b, image: WYG0290/WYG0290-0431b.png}
   - {type: variant, offset: 5415, length: 0, content: '', krp: 金史卷三十三}
   back: []
-hash: sha256:1d30ba8c366d8416b0fc97e5b575abb7630d9a8ca5014c1166225f2dc3ad61c5
+hash: sha256:b2e061581074c39edda60d0aa71237481bc7f7dd85a210a84686686b5a078523

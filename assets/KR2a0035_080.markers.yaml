@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 5, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup20183}
   - {type: punctuation, offset: 14, content: (, id: KR2a0035_ZHSJ_080-bkkpn1}
+  - {type: voice, offset: 14, length: 4, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0035_ZHSJ_080-bkkind1}
   - {type: punctuation, offset: 18, content: ), id: KR2a0035_ZHSJ_080-bkkpn2}
   - {type: line-break, offset: 18, content: '', id: ZHSJ__dup20184}
@@ -48,6 +49,7 @@ markers:
   - {type: punctuation, offset: 34, content: (, id: KR2a0035_ZHSJ_080-bkkpn4}
   - {type: variant, offset: 34, length: 0, content: '', WYG: 㚖}
   - {type: variant, offset: 34, length: 0, content: '', krp: 㚖}
+  - {type: voice, offset: 34, length: 5, name: note, id: n2}
   - {type: variant, offset: 36, length: 1, content: 撻, WYG: 托}
   - {type: variant, offset: 36, length: 1, content: 撻, krp: 托}
   - {type: variant, offset: 37, length: 1, content: 不, WYG: 卜}
@@ -59,6 +61,7 @@ markers:
   - {type: punctuation, offset: 39, content: ), id: KR2a0035_ZHSJ_080-bkkpn6}
   - {type: indent, offset: 39, content: 　, id: KR2a0035_ZHSJ_080-bkkind5}
   - {type: punctuation, offset: 40, content: (, id: KR2a0035_ZHSJ_080-bkkpn7}
+  - {type: voice, offset: 40, length: 5, name: note, id: n3}
   - {type: variant, offset: 42, length: 1, content: 蒲, WYG: 富}
   - {type: variant, offset: 42, length: 1, content: 蒲, krp: 富}
   - {type: variant, offset: 43, length: 1, content: 速, WYG: 色}
@@ -73,6 +76,7 @@ markers:
   - {type: variant, offset: 47, length: 1, content: 補, WYG: 布}
   - {type: variant, offset: 47, length: 1, content: 補, krp: 布}
   - {type: punctuation, offset: 48, content: (, id: KR2a0035_ZHSJ_080-bkkpn9}
+  - {type: voice, offset: 48, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 50, content: ), id: KR2a0035_ZHSJ_080-bkkpn10}
   - {type: xml-element, offset: 50, content: '', id: KR2a0035_ZHSJ_080-bkkxmlele2}
   - {type: xml-element, offset: 50, content: '', id: KR2a0035_ZHSJ_080-bkkxmlele3}
@@ -4262,4 +4266,4 @@ markers:
   - {type: page-break, offset: 6143, content: '', id: KR2a0035_WYG_080-20b, image: WYG0291/WYG0291-0182b.png}
   - {type: variant, offset: 6143, length: 0, content: '', krp: 金史卷八十}
   back: []
-hash: sha256:d4041ad413d5988ed7a0b22049652132d911c313fb7684f42850fcbf7150355b
+hash: sha256:3badaf6d679b99d041057f37c1d73123495dd0b4be0e85e048049cd359dac996

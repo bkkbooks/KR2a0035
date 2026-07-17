@@ -20,6 +20,7 @@ markers:
   - {type: punctuation, offset: 20, content: (, id: KR2a0035_ZHSJ_131-bkkpn1}
   - {type: variant, offset: 20, length: 0, content: '', WYG: 本名乞奴}
   - {type: variant, offset: 20, length: 0, content: '', krp: 本名乞奴}
+  - {type: voice, offset: 20, length: 3, name: note, id: n1}
   - {type: variant, offset: 22, length: 0, content: '', WYG: 恒}
   - {type: variant, offset: 22, length: 0, content: '', krp: 恒}
   - {type: punctuation, offset: 23, content: ), id: KR2a0035_ZHSJ_131-bkkpn2}
@@ -565,6 +566,7 @@ markers:
   - {type: line-break, offset: 998, content: '', id: ZHSJ__dup32512}
   - {type: indent, offset: 1001, content: 　, id: KR2a0035_ZHSJ_131-bkkind6}
   - {type: punctuation, offset: 1003, content: (, id: KR2a0035_ZHSJ_131-bkkpn181}
+  - {type: voice, offset: 1003, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 1005, content: ), id: KR2a0035_ZHSJ_131-bkkpn182}
   - {type: indent, offset: 1005, content: 　, id: KR2a0035_ZHSJ_131-bkkind7}
   - {type: indent, offset: 1007, content: 　, id: KR2a0035_ZHSJ_131-bkkind8}
@@ -1824,4 +1826,4 @@ markers:
   - {type: page-break, offset: 3182, content: '', id: KR2a0035_WYG_131-11b, image: WYG0291/WYG0291-0758d.png}
   - {type: variant, offset: 3182, length: 0, content: '', krp: 金史卷一百三十一}
   back: []
-hash: sha256:35ba03abf22477302f8c17af1a0eea7626750f4e0f988cd258b944074e131ae9
+hash: sha256:50879f9f699aee10aba24196ea9c6cf0facfab8985477fbe7fda5ad5430e7e0c

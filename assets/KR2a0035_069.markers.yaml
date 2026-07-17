@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup17825}
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup17826}
   - {type: punctuation, offset: 16, content: (, id: KR2a0035_ZHSJ_069-bkkpn1}
+  - {type: voice, offset: 16, length: 5, name: note, id: n1}
   - {type: variant, offset: 18, length: 1, content: 訛, WYG: 額}
   - {type: variant, offset: 18, length: 1, content: 訛, krp: 額}
   - {type: variant, offset: 19, length: 1, content: 魯, WYG: 爾}
@@ -25,6 +26,7 @@ markers:
   - {type: punctuation, offset: 21, content: ), id: KR2a0035_ZHSJ_069-bkkpn2}
   - {type: indent, offset: 21, content: 　, id: KR2a0035_ZHSJ_069-bkkind1}
   - {type: punctuation, offset: 23, content: (, id: KR2a0035_ZHSJ_069-bkkpn3}
+  - {type: voice, offset: 23, length: 5, name: note, id: n2}
   - {type: variant, offset: 25, length: 1, content: 沒, WYG: 穆}
   - {type: variant, offset: 25, length: 1, content: 沒, krp: 穆}
   - {type: variant, offset: 27, length: 1, content: 野, WYG: 延}
@@ -32,11 +34,13 @@ markers:
   - {type: punctuation, offset: 28, content: ), id: KR2a0035_ZHSJ_069-bkkpn4}
   - {type: indent, offset: 28, content: 　, id: KR2a0035_ZHSJ_069-bkkind2}
   - {type: punctuation, offset: 30, content: (, id: KR2a0035_ZHSJ_069-bkkpn5}
+  - {type: voice, offset: 30, length: 4, name: note, id: n3}
   - {type: variant, offset: 33, length: 1, content: 魯, WYG: 嚕}
   - {type: variant, offset: 33, length: 1, content: 魯, krp: 嚕}
   - {type: punctuation, offset: 34, content: ), id: KR2a0035_ZHSJ_069-bkkpn6}
   - {type: indent, offset: 34, content: 　, id: KR2a0035_ZHSJ_069-bkkind3}
   - {type: punctuation, offset: 35, content: (, id: KR2a0035_ZHSJ_069-bkkpn7}
+  - {type: voice, offset: 35, length: 4, name: note, id: n4}
   - {type: variant, offset: 38, length: 1, content: 鄰, WYG: 林}
   - {type: variant, offset: 38, length: 1, content: 鄰, krp: 林}
   - {type: punctuation, offset: 39, content: ), id: KR2a0035_ZHSJ_069-bkkpn8}
@@ -51,6 +55,7 @@ markers:
   - {type: indent, offset: 43, content: 　, id: KR2a0035_ZHSJ_069-bkkind5}
   - {type: page-break, offset: 43, content: '', id: KR2a0035_WYG_069-1b, image: WYG0291/WYG0291-0062d.png}
   - {type: punctuation, offset: 45, content: (, id: KR2a0035_ZHSJ_069-bkkpn9}
+  - {type: voice, offset: 45, length: 5, name: note, id: n5}
   - {type: variant, offset: 48, length: 1, content: 魯, WYG: 里}
   - {type: variant, offset: 48, length: 1, content: 魯, krp: 里}
   - {type: variant, offset: 49, length: 1, content: 補, WYG: 布}
@@ -2098,4 +2103,4 @@ markers:
   - {type: variant, offset: 3012, length: 0, content: '', WYG: 金史卷六十九}
   - {type: variant, offset: 3012, length: 0, content: '', krp: 金史卷六十九}
   back: []
-hash: sha256:501a2a525478c3afe8f828fcde9c90da73b5551c2dcc001e52e077eb83bfd713
+hash: sha256:4c9355554f57891ff1ed6b5361d8b7268a8f32ad19ca496c397fa61c5425bb19

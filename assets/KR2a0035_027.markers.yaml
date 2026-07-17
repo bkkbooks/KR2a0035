@@ -405,6 +405,7 @@ markers:
   - {type: variant, offset: 747, length: 1, content: 烈, WYG: 哩}
   - {type: variant, offset: 747, length: 1, content: 烈, krp: 哩}
   - {type: punctuation, offset: 749, content: (, id: KR2a0035_ZHSJ_027-bkkpn134}
+  - {type: voice, offset: 749, length: 5, name: note, id: n1}
   - {type: variant, offset: 752, length: 1, content: 補, WYG: 卜}
   - {type: variant, offset: 752, length: 1, content: 補, krp: 卜}
   - {type: variant, offset: 753, length: 1, content: 孫, WYG: 薩}
@@ -1934,6 +1935,7 @@ markers:
   - {type: variant, offset: 4030, length: 1, content: 列, WYG: 禄}
   - {type: variant, offset: 4030, length: 1, content: 列, krp: 禄}
   - {type: punctuation, offset: 4032, content: (, id: KR2a0035_ZHSJ_027-bkkpn683}
+  - {type: voice, offset: 4032, length: 5, name: note, id: n2}
   - {type: variant, offset: 4034, length: 1, content: 韓, WYG: 罕}
   - {type: variant, offset: 4034, length: 1, content: 韓, krp: 罕}
   - {type: variant, offset: 4035, length: 1, content: 家, WYG: 嘉}
@@ -4170,4 +4172,4 @@ markers:
   - {type: page-break, offset: 8338, content: '', id: KR2a0035_WYG_027-26b, image: WYG0290/WYG0290-0370b.png}
   - {type: variant, offset: 8338, length: 0, content: '', krp: 金史卷二十七}
   back: []
-hash: sha256:3c8d16c168bc5803e25a3b3e3b492563b41405e22b1e83edfe1a0bdd5fcd927e
+hash: sha256:afa22a13b59f841bf12e9dce83088f3678df7613d3736d01ade0a10b3cbf4b40

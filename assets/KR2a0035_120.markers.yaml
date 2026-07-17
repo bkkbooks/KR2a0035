@@ -75,6 +75,7 @@ markers:
   - {type: variant, offset: 68, length: 1, content: 論, WYG: 哩}
   - {type: variant, offset: 68, length: 1, content: 論, krp: 哩}
   - {type: punctuation, offset: 71, content: (, id: KR2a0035_ZHSJ_120-bkkpn2}
+  - {type: voice, offset: 71, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 73, content: ), id: KR2a0035_ZHSJ_120-bkkpn3}
   - {type: line-break, offset: 73, content: '', id: ZHSJ__dup30209}
   - {type: variant, offset: 74, length: 1, content: 括, WYG: 古}
@@ -4234,4 +4235,4 @@ markers:
   - {type: page-break, offset: 6352, content: '', id: KR2a0035_WYG_120-21b, image: WYG0291/WYG0291-0657b.png}
   - {type: variant, offset: 6352, length: 0, content: '', krp: 金史卷一百二十}
   back: []
-hash: sha256:080d41127f62d4660a9e07a42d48dd73ac0daccff9d10956fcfe7803c01ccf66
+hash: sha256:c6bae9970b4966968183558f1c302171516c38b3975e9a76b32518e4868e160a

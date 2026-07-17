@@ -760,6 +760,7 @@ markers:
   - {type: 'tls:seg', offset: 1294, content: '', id: KR2a0035_ZHSJ_036-d36p12s16}
   - {type: punctuation, offset: 1294, content: (, id: KR2a0035_ZHSJ_036-bkkpn226}
   - {type: substitution, offset: 1294, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
+  - {type: voice, offset: 1294, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 1296, content: ，, id: KR2a0035_ZHSJ_036-bkkpn227}
   - {type: 'tls:seg', offset: 1296, content: '', id: KR2a0035_ZHSJ_036-d36p12s17}
   - {type: variant, offset: 1296, length: 1, content: 寶, WYG: 寳}
@@ -3291,6 +3292,7 @@ markers:
   - {type: punctuation, offset: 5664, content: ，, id: KR2a0035_ZHSJ_036-bkkpn1164}
   - {type: 'tls:seg', offset: 5664, content: '', id: KR2a0035_ZHSJ_036-d36p38s30}
   - {type: punctuation, offset: 5664, content: (, id: KR2a0035_ZHSJ_036-bkkpn1165}
+  - {type: voice, offset: 5664, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 5667, content: ．, id: KR2a0035_ZHSJ_036-bkkpn1166}
   - {type: 'tls:seg', offset: 5667, content: '', id: KR2a0035_ZHSJ_036-d36p38s31}
   - {type: punctuation, offset: 5667, content: ), id: KR2a0035_ZHSJ_036-bkkpn1167}
@@ -3934,4 +3936,4 @@ markers:
   - {type: page-break, offset: 6743, content: '', id: KR2a0035_WYG_036-21b, image: WYG0290/WYG0290-0455d.png}
   - {type: variant, offset: 6743, length: 0, content: '', krp: 金史卷三十六}
   back: []
-hash: sha256:f5e0a87b686a368e2c5a83bb50fff3ef825906741f1957dcaff68c4d53817f70
+hash: sha256:473c22d10e6067af0b036c3cd3bbe150ad19743956a7f3c34e7298fddaa17e1a

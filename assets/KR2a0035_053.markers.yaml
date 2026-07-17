@@ -461,6 +461,7 @@ markers:
   - {type: punctuation, offset: 917, content: ．, id: KR2a0035_ZHSJ_053-bkkpn168}
   - {type: 'tls:seg', offset: 917, content: '', id: KR2a0035_ZHSJ_053-d53p16s10}
   - {type: punctuation, offset: 917, content: (, id: KR2a0035_ZHSJ_053-bkkpn169}
+  - {type: voice, offset: 917, length: 12, name: note, id: n1}
   - {type: punctuation, offset: 921, content: ，, id: KR2a0035_ZHSJ_053-bkkpn170}
   - {type: 'tls:seg', offset: 921, content: '', id: KR2a0035_ZHSJ_053-d53p16s11}
   - {type: punctuation, offset: 929, content: ．, id: KR2a0035_ZHSJ_053-bkkpn171}
@@ -483,6 +484,7 @@ markers:
   - {type: punctuation, offset: 948, content: ，, id: KR2a0035_ZHSJ_053-bkkpn179}
   - {type: 'tls:seg', offset: 948, content: '', id: KR2a0035_ZHSJ_053-d53p16s17}
   - {type: punctuation, offset: 948, content: (, id: KR2a0035_ZHSJ_053-bkkpn180}
+  - {type: voice, offset: 948, length: 7, name: note, id: n2}
   - {type: punctuation, offset: 952, content: ，, id: KR2a0035_ZHSJ_053-bkkpn181}
   - {type: 'tls:seg', offset: 952, content: '', id: KR2a0035_ZHSJ_053-d53p16s18}
   - {type: punctuation, offset: 955, content: ．, id: KR2a0035_ZHSJ_053-bkkpn182}
@@ -491,6 +493,7 @@ markers:
   - {type: punctuation, offset: 958, content: ，, id: KR2a0035_ZHSJ_053-bkkpn184}
   - {type: 'tls:seg', offset: 958, content: '', id: KR2a0035_ZHSJ_053-d53p16s20}
   - {type: punctuation, offset: 958, content: (, id: KR2a0035_ZHSJ_053-bkkpn185}
+  - {type: voice, offset: 958, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 962, content: ，, id: KR2a0035_ZHSJ_053-bkkpn186}
   - {type: 'tls:seg', offset: 962, content: '', id: KR2a0035_ZHSJ_053-d53p16s21}
   - {type: punctuation, offset: 966, content: ．, id: KR2a0035_ZHSJ_053-bkkpn187}
@@ -657,6 +660,7 @@ markers:
   - {type: punctuation, offset: 1273, content: ，, id: KR2a0035_ZHSJ_053-bkkpn257}
   - {type: 'tls:seg', offset: 1273, content: '', id: KR2a0035_ZHSJ_053-d53p23s17}
   - {type: punctuation, offset: 1273, content: (, id: KR2a0035_ZHSJ_053-bkkpn258}
+  - {type: voice, offset: 1273, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 1277, content: ．, id: KR2a0035_ZHSJ_053-bkkpn259}
   - {type: 'tls:seg', offset: 1277, content: '', id: KR2a0035_ZHSJ_053-d53p23s18}
   - {type: punctuation, offset: 1277, content: ), id: KR2a0035_ZHSJ_053-bkkpn260}
@@ -1108,6 +1112,7 @@ markers:
   - {type: punctuation, offset: 2231, content: ，, id: KR2a0035_ZHSJ_053-bkkpn426}
   - {type: 'tls:seg', offset: 2231, content: '', id: KR2a0035_ZHSJ_053-d53p33s21}
   - {type: punctuation, offset: 2231, content: (, id: KR2a0035_ZHSJ_053-bkkpn427}
+  - {type: voice, offset: 2231, length: 9, name: note, id: n5}
   - {type: variant, offset: 2234, length: 1, content: 歷, WYG: 厯}
   - {type: variant, offset: 2234, length: 1, content: 歷, krp: 厯}
   - {type: punctuation, offset: 2236, content: ，, id: KR2a0035_ZHSJ_053-bkkpn428}
@@ -1135,6 +1140,7 @@ markers:
   - {type: punctuation, offset: 2278, content: (, id: KR2a0035_ZHSJ_053-bkkpn436}
   - {type: variant, offset: 2278, length: 0, content: '', WYG: 若}
   - {type: variant, offset: 2278, length: 0, content: '', krp: 若}
+  - {type: voice, offset: 2278, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 2284, content: ．, id: KR2a0035_ZHSJ_053-bkkpn437}
   - {type: 'tls:seg', offset: 2284, content: '', id: KR2a0035_ZHSJ_053-d53p33s29}
   - {type: punctuation, offset: 2284, content: ), id: KR2a0035_ZHSJ_053-bkkpn438}
@@ -1164,6 +1170,7 @@ markers:
   - {type: punctuation, offset: 2328, content: ，, id: KR2a0035_ZHSJ_053-bkkpn445}
   - {type: 'tls:seg', offset: 2328, content: '', id: KR2a0035_ZHSJ_053-d53p33s36}
   - {type: punctuation, offset: 2328, content: (, id: KR2a0035_ZHSJ_053-bkkpn446}
+  - {type: voice, offset: 2328, length: 30, name: note, id: n7}
   - {type: variant, offset: 2329, length: 1, content: 曾, WYG: 曽}
   - {type: variant, offset: 2329, length: 1, content: 曾, krp: 曽}
   - {type: punctuation, offset: 2335, content: 、, id: KR2a0035_ZHSJ_053-bkkpn447}
@@ -3421,4 +3428,4 @@ markers:
   - {type: variant, offset: 6163, length: 0, content: '', WYG: 金史巻五十三}
   - {type: variant, offset: 6163, length: 0, content: '', krp: 金史巻五十三}
   back: []
-hash: sha256:13e1f3084476eacd4f9d6b5b5b63b9a0ab947164b878e454f3d670f5e6ce77ce
+hash: sha256:e95f1849e1dce822d13a5344ce4280126b14951c66842919d6293d32859408b0

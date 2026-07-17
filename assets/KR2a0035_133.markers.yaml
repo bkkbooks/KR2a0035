@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 14, content: '', id: ZHSJ__dup32917}
   - {type: line-break, offset: 16, content: '', id: ZHSJ__dup32918}
   - {type: punctuation, offset: 18, content: (, id: KR2a0035_ZHSJ_133-bkkpn1}
+  - {type: voice, offset: 18, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 21, content: ), id: KR2a0035_ZHSJ_133-bkkpn2}
   - {type: indent, offset: 21, content: 　, id: KR2a0035_ZHSJ_133-bkkind1}
   - {type: variant, offset: 23, length: 3, content: 余睹窩, WYG: 伊都伊喇}
@@ -4823,4 +4824,4 @@ markers:
   - {type: page-break, offset: 7383, content: '', id: KR2a0035_WYG_133-23b, image: WYG0291/WYG0291-0785d.png}
   - {type: variant, offset: 7383, length: 0, content: '', krp: 金史卷一百三十三}
   back: []
-hash: sha256:7f7d1a7f3e7c1d2bd888a9736a3b13384d3b1d0de2f51b601815a4241460bb0c
+hash: sha256:4b4d3ebe46815f19a3205226c17ea0866d18730a92c99a9144be533654446a85

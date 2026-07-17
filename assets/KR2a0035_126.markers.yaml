@@ -26,6 +26,7 @@ markers:
   - {type: variant, offset: 31, length: 1, content: 呂, WYG: 子祁吕}
   - {type: variant, offset: 31, length: 1, content: 呂, krp: 子祁吕}
   - {type: punctuation, offset: 34, content: (, id: KR2a0035_ZHSJ_126-bkkpn1}
+  - {type: voice, offset: 34, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 37, content: ), id: KR2a0035_ZHSJ_126-bkkpn2}
   - {type: line-break, offset: 37, content: '', id: ZHSJ__dup31569}
   - {type: indent, offset: 40, content: 　, id: KR2a0035_ZHSJ_126-bkkind7}
@@ -48,6 +49,7 @@ markers:
   - {type: variant, offset: 62, length: 1, content: 德, WYG: 徳}
   - {type: variant, offset: 62, length: 1, content: 德, krp: 徳}
   - {type: punctuation, offset: 64, content: (, id: KR2a0035_ZHSJ_126-bkkpn3}
+  - {type: voice, offset: 64, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 67, content: ), id: KR2a0035_ZHSJ_126-bkkpn4}
   - {type: xml-element, offset: 67, content: '', id: KR2a0035_ZHSJ_126-bkkxmlele2}
   - {type: xml-element, offset: 67, content: '', id: KR2a0035_ZHSJ_126-bkkxmlele3}
@@ -2746,4 +2748,4 @@ markers:
   - {type: page-break, offset: 5023, content: '', id: KR2a0035_WYG_126-17b, image: WYG0291/WYG0291-0718d.png}
   - {type: variant, offset: 5023, length: 0, content: '', krp: 金史卷一百二十六}
   back: []
-hash: sha256:154b185c7a25cc979c6d2a68e83f88ef2d51e3790f2ed6ffd1fcf61446169a0e
+hash: sha256:cc8654f2f1dfff3d1e5d5f4400d1531837fc90bb32775ed0719531ff7f392d6b

@@ -24,6 +24,7 @@ markers:
   - {type: punctuation, offset: 22, content: (, id: KR2a0035_ZHSJ_085-bkkpn1}
   - {type: variant, offset: 22, length: 0, content: '', WYG: 本名桑阿}
   - {type: variant, offset: 22, length: 0, content: '', krp: 本名桑阿}
+  - {type: voice, offset: 22, length: 2, name: note, id: n1}
   - {type: punctuation, offset: 24, content: ), id: KR2a0035_ZHSJ_085-bkkpn2}
   - {type: indent, offset: 24, content: 　, id: KR2a0035_ZHSJ_085-bkkind3}
   - {type: variant, offset: 25, length: 1, content: 德, WYG: 徳本名恩楚}
@@ -2824,4 +2825,4 @@ markers:
   - {type: page-break, offset: 4597, content: '', id: KR2a0035_WYG_085-15b, image: WYG0291/WYG0291-0235d.png}
   - {type: variant, offset: 4597, length: 0, content: '', krp: 金史卷八十五}
   back: []
-hash: sha256:55a0e44085d6e83f028271e0881ad2d4e41cc415bafdd7bd739fcaa4c86fae00
+hash: sha256:5f720c412a99c3075c560ff9a1fe094e2fc52e79b51ad6260cd6fb2c766a27d9

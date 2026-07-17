@@ -30,6 +30,7 @@ markers:
   - {type: variant, offset: 32, length: 1, content: 寧, WYG: 坦克寜}
   - {type: variant, offset: 32, length: 1, content: 寧, krp: 坦克寜}
   - {type: punctuation, offset: 33, content: (, id: KR2a0035_ZHSJ_092-bkkpn1}
+  - {type: voice, offset: 33, length: 4, name: note, id: n1}
   - {type: variant, offset: 35, length: 1, content: 習, WYG: 錫}
   - {type: variant, offset: 35, length: 1, content: 習, krp: 錫}
   - {type: variant, offset: 36, length: 1, content: 顯, WYG: 馨}
@@ -4689,4 +4690,4 @@ markers:
   - {type: variant, offset: 8461, length: 0, content: '', WYG: 金史卷九十二}
   - {type: variant, offset: 8461, length: 0, content: '', krp: 金史卷九十二}
   back: []
-hash: sha256:c95bc01fcf26edd873ed899e394c74587122e36f7287440736f5c8e3e10b818f
+hash: sha256:3847a7c4ca5689a017f256f62688f404fcffb51af8ff7e50dd946cf07c4bbdcd

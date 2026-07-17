@@ -28,10 +28,12 @@ markers:
   - {type: line-break, offset: 26, content: '', id: KR2a0035_WYG_116-1a05}
   - {type: indent, offset: 26, content: 　　, id: KR2a0035_krp_116-bkkind4}
   - {type: punctuation, offset: 31, content: (, id: KR2a0035_krp_116-bkkpn1}
+  - {type: voice, offset: 31, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 33, content: /, id: KR2a0035_krp_116-bkkpn2}
   - {type: punctuation, offset: 34, content: ), id: KR2a0035_krp_116-bkkpn3}
   - {type: indent, offset: 34, content: 　, id: KR2a0035_krp_116-bkkind5}
   - {type: punctuation, offset: 39, content: (, id: KR2a0035_krp_116-bkkpn4}
+  - {type: voice, offset: 39, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 41, content: /, id: KR2a0035_krp_116-bkkpn5}
   - {type: punctuation, offset: 43, content: ), id: KR2a0035_krp_116-bkkpn6}
   - {type: 'kr:newline', offset: 43, content: '
@@ -40,10 +42,12 @@ markers:
   - {type: line-break, offset: 43, content: '', id: KR2a0035_WYG_116-1a06}
   - {type: indent, offset: 43, content: 　　, id: KR2a0035_krp_116-bkkind6}
   - {type: punctuation, offset: 47, content: (, id: KR2a0035_krp_116-bkkpn7}
+  - {type: voice, offset: 47, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 49, content: /, id: KR2a0035_krp_116-bkkpn8}
   - {type: punctuation, offset: 51, content: ), id: KR2a0035_krp_116-bkkpn9}
   - {type: indent, offset: 51, content: 　, id: KR2a0035_krp_116-bkkind7}
   - {type: punctuation, offset: 55, content: (, id: KR2a0035_krp_116-bkkpn10}
+  - {type: voice, offset: 55, length: 8, name: note, id: n4}
   - {type: punctuation, offset: 58, content: /, id: KR2a0035_krp_116-bkkpn11}
   - {type: punctuation, offset: 60, content: ), id: KR2a0035_krp_116-bkkpn12}
   - {type: indent, offset: 60, content: 　, id: KR2a0035_krp_116-bkkind8}
@@ -1626,4 +1630,4 @@ markers:
 
       ', id: KR2a0035_krp_116-bkkkrnewl395}
   back: []
-hash: sha256:54f615fc2204f06258fc61cc787d8152e89affb4f6fa324b8081eb4ab47e9272
+hash: sha256:293165a1ede56f4a548d20183e0c41a0395d2268fe772fcac7e16be9002fa1be

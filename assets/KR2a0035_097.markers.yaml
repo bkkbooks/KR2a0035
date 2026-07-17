@@ -25,6 +25,7 @@ markers:
   - {type: variant, offset: 18, length: 0, content: '', WYG: 本名蘇布}
   - {type: variant, offset: 18, length: 0, content: '', krp: 本名蘇布}
   - {type: punctuation, offset: 21, content: (, id: KR2a0035_ZHSJ_097-bkkpn1}
+  - {type: voice, offset: 21, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 24, content: ), id: KR2a0035_ZHSJ_097-bkkpn2}
   - {type: indent, offset: 24, content: 　, id: KR2a0035_ZHSJ_097-bkkind3}
   - {type: indent, offset: 26, content: 　, id: KR2a0035_ZHSJ_097-bkkind4}
@@ -43,6 +44,7 @@ markers:
   - {type: indent, offset: 48, content: 　, id: KR2a0035_ZHSJ_097-bkkind11}
   - {type: indent, offset: 51, content: 　, id: KR2a0035_ZHSJ_097-bkkind12}
   - {type: punctuation, offset: 53, content: (, id: KR2a0035_ZHSJ_097-bkkpn3}
+  - {type: voice, offset: 53, length: 2, name: note, id: n2}
   - {type: variant, offset: 54, length: 1, content: 珫, WYG: 訛}
   - {type: variant, offset: 54, length: 1, content: 珫, krp: 訛}
   - {type: punctuation, offset: 55, content: ), id: KR2a0035_ZHSJ_097-bkkpn4}
@@ -3501,4 +3503,4 @@ markers:
   - {type: page-break, offset: 6933, content: '', id: KR2a0035_WYG_097-22b, image: WYG0291/WYG0291-0381b.png}
   - {type: variant, offset: 6933, length: 0, content: '', krp: 金史卷九十七}
   back: []
-hash: sha256:4a92aa038b8e9a9d395f8c552e4e19974b6e33b88bb0794ba9e5bdc964b09d73
+hash: sha256:fd57759c8f7e97a8ecb273830c4ad94ebe74ffe3f9c2227a8a96f81111949e86

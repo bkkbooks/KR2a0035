@@ -17,6 +17,7 @@ markers:
   - {type: variant, offset: 13, length: 4, content: 粘葛奴申, WYG: 鈕祜禄納新}
   - {type: variant, offset: 13, length: 4, content: 粘葛奴申, krp: 鈕祜禄納新}
   - {type: punctuation, offset: 17, content: (, id: KR2a0035_ZHSJ_119-bkkpn1}
+  - {type: voice, offset: 17, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 21, content: ), id: KR2a0035_ZHSJ_119-bkkpn2}
   - {type: indent, offset: 21, content: 　, id: KR2a0035_ZHSJ_119-bkkind1}
   - {type: variant, offset: 22, length: 1, content: 顏, WYG: 顔}
@@ -3970,4 +3971,4 @@ markers:
   - {type: page-break, offset: 6664, content: '', id: KR2a0035_WYG_119-21b, image: WYG0291/WYG0291-0646d.png}
   - {type: variant, offset: 6664, length: 0, content: '', krp: 金史卷一百十九}
   back: []
-hash: sha256:b54f72d77fdd1da6ad9c4142c52885f7386c9053f2aa7d2566d83d85f697ce6f
+hash: sha256:f01d2dd74f0df2e31f58c9830fc27551748de176b47f61096137a85b3d33d081

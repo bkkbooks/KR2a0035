@@ -3367,6 +3367,7 @@ markers:
   - {type: punctuation, offset: 5242, content: ．, id: KR2a0035_ZHSJ_041-bkkpn1510}
   - {type: 'tls:seg', offset: 5242, content: '', id: KR2a0035_ZHSJ_041-d41p36s17}
   - {type: punctuation, offset: 5242, content: ), id: KR2a0035_ZHSJ_041-bkkpn1511}
+  - {type: 'voice:problem', offset: 5242, length: 0, id: KR2a0035_bkk_041-bkkvprob1, source: parens, bucket: body, code: stray-close, message: unexpected ')' at offset 5242 with no matching '('}
   - {type: punctuation, offset: 5246, content: ，, id: KR2a0035_ZHSJ_041-bkkpn1512}
   - {type: 'tls:seg', offset: 5246, content: '', id: KR2a0035_ZHSJ_041-d41p36s18}
   - {type: punctuation, offset: 5252, content: ，, id: KR2a0035_ZHSJ_041-bkkpn1513}
@@ -6369,4 +6370,4 @@ markers:
   - {type: page-break, offset: 9492, content: '', id: KR2a0035_WYG_041-27b, image: WYG0290/WYG0290-0511b.png}
   - {type: variant, offset: 9492, length: 0, content: '', krp: 金史卷四十一金史卷四十一考證儀衛志上苣紋旗案苣紋宋史儀衛志作苣文宣和間又改為祥光刀盾三十六銀褐抹額寳相花衫案寳相花衫原本作寳花衫考金之儀衛一視宋制志志麾仗所服諸繡文皆各有取義如千牛以犀六軍以孔雀樂工以鸞之類其無可取者義皆服寳相花志中所載不一而足此處獨作寳花相顯有脱簡謹増哥舒二十四案哥舒原本作柯舒考柯舒黑漆棒也制同車輻以金銅釘飾載宋史儀衛志此作柯誤也謹改槍二十五人案槍原本作鎗考鎗乃酒器原本誤也謹改金史卷四十一考證}
   back: []
-hash: sha256:8755ce4b230de635019f06658839aa96f9ec291ef609bf4f2c27b3087fc98052
+hash: sha256:f4840d3030087d14e69e84b070ec19e88197f1ea786c1749f57cddcc76d108c9

@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
   - {type: line-break, offset: 11, content: '', id: ZHSJ__dup20611}
   - {type: punctuation, offset: 14, content: (, id: KR2a0035_ZHSJ_082-bkkpn1}
+  - {type: voice, offset: 14, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 17, content: ), id: KR2a0035_ZHSJ_082-bkkpn2}
   - {type: indent, offset: 17, content: 　, id: KR2a0035_ZHSJ_082-bkkind1}
   - {type: variant, offset: 19, length: 7, content: 塗山鳥延胡里改, WYG: 圖善}
@@ -81,6 +82,7 @@ markers:
   - {type: punctuation, offset: 75, content: (, id: KR2a0035_ZHSJ_082-bkkpn3}
   - {type: variant, offset: 75, length: 0, content: '', WYG: 本名珠嚕凖}
   - {type: variant, offset: 75, length: 0, content: '', krp: 本名珠嚕凖}
+  - {type: voice, offset: 75, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 77, content: ), id: KR2a0035_ZHSJ_082-bkkpn4}
   - {type: indent, offset: 77, content: 　, id: KR2a0035_ZHSJ_082-bkkind13}
   - {type: indent, offset: 80, content: 　, id: KR2a0035_ZHSJ_082-bkkind14}
@@ -5403,4 +5405,4 @@ markers:
   - {type: variant, offset: 8467, length: 0, content: '', WYG: 金史卷八十二}
   - {type: variant, offset: 8467, length: 0, content: '', krp: 金史卷八十二}
   back: []
-hash: sha256:0d72faf74a1a7e3f5b96a3e75b90044a54df330d8535572146c7ac6895bbaa34
+hash: sha256:e0d1d197a7899a43ef8ed0b40dd63a290aa0c22fcdac20ccf0734fe7c0121208

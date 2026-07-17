@@ -1593,6 +1593,7 @@ markers:
   - {type: punctuation, offset: 2715, content: ．, id: KR2a0035_ZHSJ_050-bkkpn536}
   - {type: 'tls:seg', offset: 2715, content: '', id: KR2a0035_ZHSJ_050-d50p28s28}
   - {type: punctuation, offset: 2715, content: (, id: KR2a0035_ZHSJ_050-bkkpn537}
+  - {type: voice, offset: 2715, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 2719, content: ．, id: KR2a0035_ZHSJ_050-bkkpn538}
   - {type: 'tls:seg', offset: 2719, content: '', id: KR2a0035_ZHSJ_050-d50p28s29}
   - {type: punctuation, offset: 2719, content: ), id: KR2a0035_ZHSJ_050-bkkpn539}
@@ -2998,4 +2999,4 @@ markers:
   - {type: page-break, offset: 5445, content: '', id: KR2a0035_WYG_050-17b, image: WYG0290/WYG0290-0614d.png}
   - {type: variant, offset: 5445, length: 0, content: '', krp: 金史巻五十}
   back: []
-hash: sha256:64fb90c5f10a671ede4924d8450e15aa3fdc730587fde6ec9525572d0b4251cd
+hash: sha256:995ae4c25f107573c683063e47d3ae77046498cbbe13bb85b217f1bda172a947

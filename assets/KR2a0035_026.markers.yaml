@@ -1387,6 +1387,7 @@ markers:
   - {type: 'tls:seg', offset: 1694, content: '', id: KR2a0035_ZHSJ_026-d26p76s1}
   - {type: line-break, offset: 1694, content: '', id: ZHSJ__dup7732}
   - {type: punctuation, offset: 1696, content: (, id: KR2a0035_ZHSJ_026-bkkpn572}
+  - {type: 'voice:problem', offset: 1696, length: 11, id: KR2a0035_bkk_026-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 1696, got ''('' at offset 1707'}
   - {type: variant, offset: 1697, length: 1, content: 岢, WYG: ''}
   - {type: variant, offset: 1697, length: 1, content: 岢, krp: ''}
   - {type: variant, offset: 1699, length: 0, content: '', WYG: 谷}
@@ -6317,4 +6318,4 @@ markers:
   - {type: variant, offset: 7430, length: 0, content: '', WYG: 金史卷二十六}
   - {type: variant, offset: 7430, length: 0, content: '', krp: 金史卷二十六}
   back: []
-hash: sha256:24eca24991543dfcb1de9d3bb4b079b247c9c3d2812916a0f1205a5d47cb7398
+hash: sha256:a2fea7302834cdd29156727225a4bba59cc2d1efcaaa15acbb4347111fb55b8c

@@ -15,6 +15,7 @@ markers:
   - {type: variant, offset: 6, length: 0, content: '', krp: 元中書右丞相總裁托克托等修}
   - {type: line-break, offset: 12, content: '', id: ZHSJ__dup21540}
   - {type: punctuation, offset: 14, content: (, id: KR2a0035_ZHSJ_086-bkkpn1}
+  - {type: voice, offset: 14, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 17, content: ), id: KR2a0035_ZHSJ_086-bkkpn2}
   - {type: indent, offset: 17, content: 　, id: KR2a0035_ZHSJ_086-bkkind1}
   - {type: variant, offset: 18, length: 1, content: 顏, WYG: 顔}
@@ -4117,4 +4118,4 @@ markers:
   - {type: variant, offset: 5976, length: 0, content: '', WYG: 金史卷八十六}
   - {type: variant, offset: 5976, length: 0, content: '', krp: 金史卷八十六}
   back: []
-hash: sha256:449097796328a351d449c8faba91bf0b098159dd17925c4315811e99784bb2c1
+hash: sha256:765af5df1eddfcb3854616adc15ffb25b6bc495585361631380c125e79e1199a

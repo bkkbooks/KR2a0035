@@ -39,6 +39,7 @@ markers:
   - {type: variant, offset: 42, length: 1, content: 申, WYG: 新}
   - {type: variant, offset: 42, length: 1, content: 申, krp: 新}
   - {type: punctuation, offset: 43, content: (, id: KR2a0035_ZHSJ_123-bkkpn2}
+  - {type: voice, offset: 43, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 47, content: ), id: KR2a0035_ZHSJ_123-bkkpn3}
   - {type: indent, offset: 47, content: 　, id: KR2a0035_ZHSJ_123-bkkind5}
   - {type: xml-element, offset: 49, content: '', id: KR2a0035_ZHSJ_123-bkkxmlele2}
@@ -3201,4 +3202,4 @@ markers:
   - {type: variant, offset: 5795, length: 0, content: '', WYG: 金史卷一百二十三}
   - {type: variant, offset: 5795, length: 0, content: '', krp: 金史卷一百二十三}
   back: []
-hash: sha256:44c65f50c0bdb3cd9b11efab10a9831a138d27c88efe14aaa396fad0bdeca4d6
+hash: sha256:c5927225cc6d2dad6482773b6149bb9a477a4530d9c06ea9a9e1ba981d93ca85

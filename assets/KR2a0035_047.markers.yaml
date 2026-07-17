@@ -3237,6 +3237,7 @@ markers:
   - {type: line-break, offset: 6046, content: '', id: ZHSJ__dup12797}
   - {type: punctuation, offset: 6050, content: 、, id: KR2a0035_ZHSJ_047-bkkpn1105}
   - {type: punctuation, offset: 6050, content: (, id: KR2a0035_ZHSJ_047-bkkpn1106}
+  - {type: voice, offset: 6050, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 6056, content: ．, id: KR2a0035_ZHSJ_047-bkkpn1107}
   - {type: 'tls:seg', offset: 6056, content: '', id: KR2a0035_ZHSJ_047-d47p42s6}
   - {type: punctuation, offset: 6056, content: ), id: KR2a0035_ZHSJ_047-bkkpn1108}
@@ -5014,6 +5015,7 @@ markers:
   - {type: punctuation, offset: 9256, content: (, id: KR2a0035_ZHSJ_047-bkkpn1688}
   - {type: variant, offset: 9256, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 9256, length: 1, content: 內, krp: 内}
+  - {type: voice, offset: 9256, length: 32, name: note, id: n2}
   - {type: punctuation, offset: 9272, content: ，, id: KR2a0035_ZHSJ_047-bkkpn1689}
   - {type: 'tls:seg', offset: 9272, content: '', id: KR2a0035_ZHSJ_047-d47p68s29}
   - {type: line-break, offset: 9276, content: '', id: ZHSJ__dup12907}
@@ -5041,6 +5043,7 @@ markers:
   - {type: punctuation, offset: 9336, content: (, id: KR2a0035_ZHSJ_047-bkkpn1698}
   - {type: variant, offset: 9336, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 9336, length: 1, content: 內, krp: 内}
+  - {type: voice, offset: 9336, length: 18, name: note, id: n3}
   - {type: punctuation, offset: 9344, content: ，, id: KR2a0035_ZHSJ_047-bkkpn1699}
   - {type: 'tls:seg', offset: 9344, content: '', id: KR2a0035_ZHSJ_047-d47p68s37}
   - {type: line-break, offset: 9353, content: '', id: ZHSJ__dup12909}
@@ -5077,6 +5080,7 @@ markers:
   - {type: punctuation, offset: 9402, content: (, id: KR2a0035_ZHSJ_047-bkkpn1709}
   - {type: variant, offset: 9402, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 9402, length: 1, content: 內, krp: 内}
+  - {type: voice, offset: 9402, length: 23, name: note, id: n4}
   - {type: variant, offset: 9414, length: 1, content: 三, WYG: 二}
   - {type: variant, offset: 9414, length: 1, content: 三, krp: 二}
   - {type: punctuation, offset: 9415, content: ，, id: KR2a0035_ZHSJ_047-bkkpn1710}
@@ -5130,4 +5134,4 @@ markers:
   - {type: variant, offset: 9493, length: 0, content: '', WYG: 金史卷四十七}
   - {type: variant, offset: 9493, length: 0, content: '', krp: 金史卷四十七}
   back: []
-hash: sha256:c2ef2d60a807ff7c8824c4c830ade99578412a015a6c3e055193733d08f62026
+hash: sha256:d835e26ccb1d615b97c26fcfa8b04a83af8e32c335f457bab546fb8cfb57fad2

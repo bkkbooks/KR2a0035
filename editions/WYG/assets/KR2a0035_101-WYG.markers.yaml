@@ -28,10 +28,12 @@ markers:
   - {type: line-break, offset: 25, content: '', id: KR2a0035_WYG_101-1a05}
   - {type: indent, offset: 25, content: 　　, id: KR2a0035_WYG_101-bkkind4}
   - {type: punctuation, offset: 27, content: (, id: KR2a0035_WYG_101-bkkpn1}
+  - {type: voice, offset: 27, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 31, content: /, id: KR2a0035_WYG_101-bkkpn2}
   - {type: punctuation, offset: 31, content: ), id: KR2a0035_WYG_101-bkkpn3}
   - {type: indent, offset: 31, content: 　, id: KR2a0035_WYG_101-bkkind5}
   - {type: punctuation, offset: 35, content: (, id: KR2a0035_WYG_101-bkkpn4}
+  - {type: voice, offset: 35, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 39, content: /, id: KR2a0035_WYG_101-bkkpn5}
   - {type: punctuation, offset: 39, content: ), id: KR2a0035_WYG_101-bkkpn6}
   - {type: 'kr:newline', offset: 39, content: '
@@ -40,6 +42,7 @@ markers:
   - {type: line-break, offset: 39, content: '', id: KR2a0035_WYG_101-1a06}
   - {type: indent, offset: 39, content: 　　, id: KR2a0035_WYG_101-bkkind6}
   - {type: punctuation, offset: 42, content: (, id: KR2a0035_WYG_101-bkkpn7}
+  - {type: voice, offset: 42, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 46, content: /, id: KR2a0035_WYG_101-bkkpn8}
   - {type: punctuation, offset: 46, content: ), id: KR2a0035_WYG_101-bkkpn9}
   - {type: indent, offset: 49, content: 　　　, id: KR2a0035_WYG_101-bkkind7}
@@ -49,6 +52,7 @@ markers:
   - {type: line-break, offset: 51, content: '', id: KR2a0035_WYG_101-1a07}
   - {type: indent, offset: 51, content: 　　, id: KR2a0035_WYG_101-bkkind8}
   - {type: punctuation, offset: 56, content: (, id: KR2a0035_WYG_101-bkkpn10}
+  - {type: voice, offset: 56, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 61, content: /, id: KR2a0035_WYG_101-bkkpn11}
   - {type: punctuation, offset: 61, content: ), id: KR2a0035_WYG_101-bkkpn12}
   - {type: indent, offset: 61, content: 　　　, id: KR2a0035_WYG_101-bkkind9}
@@ -1622,4 +1626,4 @@ markers:
 
       ', id: KR2a0035_WYG_101-bkkp1}
   back: []
-hash: sha256:ea8db853d56b371ad022b09fe32b4d0155255ff40c71d318fde45e49f08a7151
+hash: sha256:2c9230fe6d148be66e088ff76b6d69428e601ddfc8d213cbcc211a6dcab71e10

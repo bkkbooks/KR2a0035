@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 13, content: '', id: ZHSJ__dup32590}
   - {type: line-break, offset: 15, content: '', id: ZHSJ__dup32591}
   - {type: punctuation, offset: 17, content: (, id: KR2a0035_ZHSJ_132-bkkpn1}
+  - {type: voice, offset: 17, length: 4, name: note, id: n1}
   - {type: variant, offset: 19, length: 1, content: 乙, WYG: 伊}
   - {type: variant, offset: 19, length: 1, content: 乙, krp: 伊}
   - {type: variant, offset: 20, length: 1, content: 辛, WYG: 遜}
@@ -36,6 +37,7 @@ markers:
   - {type: variant, offset: 29, length: 8, content: 徒單阿里出虎僕散, krp: 圖克坦額哷楚克布薩}
   - {type: line-break, offset: 35, content: '', id: ZHSJ__dup32592}
   - {type: punctuation, offset: 39, content: (, id: KR2a0035_ZHSJ_132-bkkpn3}
+  - {type: voice, offset: 39, length: 4, name: note, id: n2}
   - {type: variant, offset: 41, length: 4, content: 忽土徒單, WYG: 呼圖圖克坦}
   - {type: page-break, offset: 41, content: '', id: KR2a0035_WYG_132-1b, image: WYG0291/WYG0291-0759b.png}
   - {type: variant, offset: 41, length: 4, content: 忽土徒單, krp: 呼圖圖克坦}
@@ -51,6 +53,7 @@ markers:
   - {type: variant, offset: 53, length: 3, content: 紇石烈, WYG: 本名阿里赫舍哩}
   - {type: variant, offset: 53, length: 3, content: 紇石烈, krp: 本名阿里赫舍哩}
   - {type: punctuation, offset: 58, content: (, id: KR2a0035_ZHSJ_132-bkkpn5}
+  - {type: voice, offset: 58, length: 5, name: note, id: n3}
   - {type: variant, offset: 60, length: 1, content: 胡, WYG: 呼}
   - {type: variant, offset: 60, length: 1, content: 胡, krp: 呼}
   - {type: variant, offset: 62, length: 1, content: 虎, WYG: 呼}
@@ -5836,4 +5839,4 @@ markers:
   - {type: page-break, offset: 9621, content: '', id: KR2a0035_WYG_132-30b, image: WYG0291/WYG0291-0773d.png}
   - {type: variant, offset: 9621, length: 0, content: '', krp: 金史卷一百三十二}
   back: []
-hash: sha256:feadd95499e5146d9b7363ca1ff3f88dd456c7f599f4d1a8cd029bea1c1aa8ac
+hash: sha256:eb0515506b10c44b9071306d71ee2214697ab2aa55d9f672038e1a86b2529d99

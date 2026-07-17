@@ -33,10 +33,12 @@ markers:
   - {type: line-break, offset: 30, content: '', id: KR2a0035_WYG_123-1a06}
   - {type: indent, offset: 30, content: 　　, id: KR2a0035_WYG_123-bkkind5}
   - {type: punctuation, offset: 34, content: (, id: KR2a0035_WYG_123-bkkpn1}
+  - {type: voice, offset: 34, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 37, content: /, id: KR2a0035_WYG_123-bkkpn2}
   - {type: punctuation, offset: 39, content: ), id: KR2a0035_WYG_123-bkkpn3}
   - {type: indent, offset: 44, content: 　, id: KR2a0035_WYG_123-bkkind6}
   - {type: punctuation, offset: 47, content: (, id: KR2a0035_WYG_123-bkkpn4}
+  - {type: voice, offset: 47, length: 8, name: note, id: n2}
   - {type: punctuation, offset: 51, content: /, id: KR2a0035_WYG_123-bkkpn5}
   - {type: punctuation, offset: 55, content: ), id: KR2a0035_WYG_123-bkkpn6}
   - {type: 'kr:newline', offset: 55, content: '
@@ -53,11 +55,13 @@ markers:
   - {type: indent, offset: 69, content: 　　, id: KR2a0035_WYG_123-bkkind10}
   - {type: indent, offset: 70, content: 　, id: KR2a0035_WYG_123-bkkind11}
   - {type: punctuation, offset: 71, content: (, id: KR2a0035_WYG_123-bkkpn7}
+  - {type: voice, offset: 71, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 74, content: /, id: KR2a0035_WYG_123-bkkpn8}
   - {type: punctuation, offset: 75, content: ), id: KR2a0035_WYG_123-bkkpn9}
   - {type: indent, offset: 75, content: 　, id: KR2a0035_WYG_123-bkkind12}
   - {type: indent, offset: 76, content: 　, id: KR2a0035_WYG_123-bkkind13}
   - {type: punctuation, offset: 77, content: (, id: KR2a0035_WYG_123-bkkpn10}
+  - {type: voice, offset: 77, length: 6, name: note, id: n4}
   - {type: punctuation, offset: 82, content: /, id: KR2a0035_WYG_123-bkkpn11}
   - {type: punctuation, offset: 83, content: ), id: KR2a0035_WYG_123-bkkpn12}
   - {type: 'kr:newline', offset: 83, content: '
@@ -1327,4 +1331,4 @@ markers:
 
       ', id: KR2a0035_WYG_123-bkkp1}
   back: []
-hash: sha256:e1d7ca1f5c59a5abc725b8a42861cbbad7872778c6973215372334aa0e809217
+hash: sha256:09685c0df6c91f0fb63dce05235eccc68d928a95037ec136b3a4c4375208e156

@@ -46,6 +46,7 @@ markers:
   - {type: punctuation, offset: 26, content: (, id: KR2a0035_ZHSJ_071-bkkpn1}
   - {type: variant, offset: 26, length: 0, content: '', WYG: 叙}
   - {type: variant, offset: 26, length: 0, content: '', krp: 叙}
+  - {type: voice, offset: 26, length: 4, name: note, id: n1}
   - {type: variant, offset: 28, length: 1, content: 德, WYG: 徳}
   - {type: variant, offset: 28, length: 1, content: 德, krp: 徳}
   - {type: variant, offset: 29, length: 1, content: 壽, WYG: 夀}
@@ -4665,4 +4666,4 @@ markers:
   - {type: page-break, offset: 6338, content: '', id: KR2a0035_WYG_071-20b, image: WYG0291/WYG0291-0086d.png}
   - {type: variant, offset: 6338, length: 0, content: '', krp: 金史卷七十一}
   back: []
-hash: sha256:d91a7af9695e8f51ce907aff33ecf36d3ccef53b8a411d6e00190a2af401ffaf
+hash: sha256:348529c0f513d0a6f669416bdaf9add3501f8c41d2f7c446a4d4cb51291ab7a6

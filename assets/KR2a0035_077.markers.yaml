@@ -17,6 +17,7 @@ markers:
   - {type: punctuation, offset: 13, content: (, id: KR2a0035_ZHSJ_077-bkkpn1}
   - {type: variant, offset: 13, length: 1, content: 本, WYG: 木}
   - {type: variant, offset: 13, length: 1, content: 本, krp: 木}
+  - {type: voice, offset: 13, length: 4, name: note, id: n1}
   - {type: variant, offset: 15, length: 1, content: 兀, WYG: 烏}
   - {type: variant, offset: 15, length: 1, content: 兀, krp: 烏}
   - {type: variant, offset: 16, length: 1, content: 朮, WYG: 珠}
@@ -24,6 +25,7 @@ markers:
   - {type: punctuation, offset: 17, content: ), id: KR2a0035_ZHSJ_077-bkkpn2}
   - {type: indent, offset: 17, content: 　, id: KR2a0035_ZHSJ_077-bkkind1}
   - {type: punctuation, offset: 18, content: (, id: KR2a0035_ZHSJ_077-bkkpn3}
+  - {type: voice, offset: 18, length: 4, name: note, id: n2}
   - {type: variant, offset: 20, length: 1, content: 孛, WYG: 伯}
   - {type: variant, offset: 20, length: 1, content: 孛, krp: 伯}
   - {type: variant, offset: 21, length: 1, content: 迭, WYG: 特}
@@ -3739,4 +3741,4 @@ markers:
   - {type: variant, offset: 6097, length: 0, content: '', WYG: 金史卷七十七}
   - {type: variant, offset: 6097, length: 0, content: '', krp: 金史卷七十七}
   back: []
-hash: sha256:6a1eb2eb22ff1a50863c22b78e2f9c3925211a7d6bf5095008da412ca083036b
+hash: sha256:e97530b12595dcd67a15c8eca318dc075e1162fb76ed631b6a8267ac74486087

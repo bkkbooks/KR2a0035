@@ -20,11 +20,13 @@ markers:
   - {type: variant, offset: 17, length: 4, content: 粘哥荊山, WYG: 鈕祜祿經實}
   - {type: variant, offset: 17, length: 4, content: 粘哥荊山, krp: 鈕祜祿經實}
   - {type: punctuation, offset: 21, content: (, id: KR2a0035_ZHSJ_117-bkkpn1}
+  - {type: voice, offset: 21, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 24, content: ), id: KR2a0035_ZHSJ_117-bkkpn2}
   - {type: indent, offset: 24, content: 　, id: KR2a0035_ZHSJ_117-bkkind2}
   - {type: variant, offset: 25, length: 1, content: 賓, WYG: 賔}
   - {type: variant, offset: 25, length: 1, content: 賓, krp: 賔}
   - {type: punctuation, offset: 26, content: (, id: KR2a0035_ZHSJ_117-bkkpn3}
+  - {type: voice, offset: 26, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 30, content: ), id: KR2a0035_ZHSJ_117-bkkpn4}
   - {type: line-break, offset: 30, content: '', id: ZHSJ__dup29497}
   - {type: indent, offset: 33, content: 　, id: KR2a0035_ZHSJ_117-bkkind3}
@@ -3003,4 +3005,4 @@ markers:
   - {type: variant, offset: 5480, length: 0, content: '', WYG: 金史卷一百十七}
   - {type: variant, offset: 5480, length: 0, content: '', krp: 金史卷一百十七}
   back: []
-hash: sha256:5d0590ab4580f7b6a5996a765234f4d4a9c4a157bb0042b734bf29720297167d
+hash: sha256:07a1f2d6a59175e67907a60a65ff8eb8aa69184a1c76b7822defd0372cb2fa84

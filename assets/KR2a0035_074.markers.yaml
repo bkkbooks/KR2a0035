@@ -17,6 +17,7 @@ markers:
   - {type: punctuation, offset: 13, content: (, id: KR2a0035_ZHSJ_074-bkkpn1}
   - {type: variant, offset: 13, length: 1, content: 本, WYG: 夲}
   - {type: variant, offset: 13, length: 1, content: 本, krp: 夲}
+  - {type: voice, offset: 13, length: 7, name: note, id: n1}
   - {type: variant, offset: 15, length: 1, content: 粘, WYG: 尼}
   - {type: variant, offset: 15, length: 1, content: 粘, krp: 尼}
   - {type: variant, offset: 16, length: 1, content: 罕, WYG: 堪}
@@ -33,6 +34,7 @@ markers:
   - {type: punctuation, offset: 22, content: (, id: KR2a0035_ZHSJ_074-bkkpn3}
   - {type: variant, offset: 22, length: 1, content: 本, WYG: 夲}
   - {type: variant, offset: 22, length: 1, content: 本, krp: 夲}
+  - {type: voice, offset: 22, length: 9, name: note, id: n2}
   - {type: variant, offset: 24, length: 3, content: 斡离不, WYG: 幹里雅布}
   - {type: variant, offset: 24, length: 3, content: 斡离不, krp: 幹里雅布}
   - {type: substitution, offset: 25, original: 离, replacement: 離, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17197}}
@@ -5100,4 +5102,4 @@ markers:
   - {type: page-break, offset: 8331, content: '', id: KR2a0035_WYG_074-26b, image: WYG0291/WYG0291-0125d.png}
   - {type: variant, offset: 8331, length: 0, content: '', krp: 金史卷七十四}
   back: []
-hash: sha256:5ce94c02f276ce7f2fed4df5f811d32fb3dd49c4833be6bd4f69bfd7e7d617f8
+hash: sha256:315df7c744f91fae73836bf54bb9902b9bfb2da3a46c882f92858fc58df57fb7

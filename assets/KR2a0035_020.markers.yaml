@@ -561,6 +561,7 @@ markers:
   - {type: punctuation, offset: 1068, content: ．, id: KR2a0035_ZHSJ_020-bkkpn209}
   - {type: 'tls:seg', offset: 1068, content: '', id: KR2a0035_ZHSJ_020-d20p14s6}
   - {type: punctuation, offset: 1068, content: (, id: KR2a0035_ZHSJ_020-bkkpn210}
+  - {type: voice, offset: 1068, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 1076, content: ．, id: KR2a0035_ZHSJ_020-bkkpn211}
   - {type: 'tls:seg', offset: 1076, content: '', id: KR2a0035_ZHSJ_020-d20p14s7}
   - {type: punctuation, offset: 1076, content: ), id: KR2a0035_ZHSJ_020-bkkpn212}
@@ -2293,6 +2294,7 @@ markers:
   - {type: punctuation, offset: 4487, content: ．, id: KR2a0035_ZHSJ_020-bkkpn955}
   - {type: 'tls:seg', offset: 4487, content: '', id: KR2a0035_ZHSJ_020-d20p29s269}
   - {type: punctuation, offset: 4487, content: (, id: KR2a0035_ZHSJ_020-bkkpn956}
+  - {type: voice, offset: 4487, length: 4, name: note, id: n2}
   - {type: page-break, offset: 4490, content: '', id: KR2a0035_WYG_020-15b, image: WYG0290/WYG0290-0270d.png}
   - {type: punctuation, offset: 4491, content: ．, id: KR2a0035_ZHSJ_020-bkkpn957}
   - {type: 'tls:seg', offset: 4491, content: '', id: KR2a0035_ZHSJ_020-d20p29s270}
@@ -3709,4 +3711,4 @@ markers:
   - {type: variant, offset: 7216, length: 0, content: '', WYG: 金史卷二十}
   - {type: variant, offset: 7216, length: 0, content: '', krp: 金史卷二十}
   back: []
-hash: sha256:250e2f1330652c02e9a4c6d1f4ef9dd9e89558802aa74424ae46a07f77cb4907
+hash: sha256:59b8eaaab8fd1331f4b9d6a44895f90e1a4997ecacff6a3b8a0dd695a444b6c0

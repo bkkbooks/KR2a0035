@@ -437,6 +437,7 @@ markers:
   - {type: punctuation, offset: 821, content: (, id: KR2a0035_ZHSJ_034-bkkpn160}
   - {type: variant, offset: 821, length: 1, content: 三, WYG: 二}
   - {type: variant, offset: 821, length: 1, content: 三, krp: 二}
+  - {type: voice, offset: 821, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 826, content: ．, id: KR2a0035_ZHSJ_034-bkkpn161}
   - {type: 'tls:seg', offset: 826, content: '', id: KR2a0035_ZHSJ_034-d34p9s28}
   - {type: punctuation, offset: 826, content: ), id: KR2a0035_ZHSJ_034-bkkpn162}
@@ -1258,6 +1259,7 @@ markers:
   - {type: punctuation, offset: 2478, content: ，, id: KR2a0035_ZHSJ_034-bkkpn502}
   - {type: 'tls:seg', offset: 2478, content: '', id: KR2a0035_ZHSJ_034-d34p19s21}
   - {type: punctuation, offset: 2478, content: (, id: KR2a0035_ZHSJ_034-bkkpn503}
+  - {type: voice, offset: 2478, length: 6, name: note, id: n2}
   - {type: punctuation, offset: 2484, content: ．, id: KR2a0035_ZHSJ_034-bkkpn504}
   - {type: 'tls:seg', offset: 2484, content: '', id: KR2a0035_ZHSJ_034-d34p19s22}
   - {type: punctuation, offset: 2484, content: ), id: KR2a0035_ZHSJ_034-bkkpn505}
@@ -1962,6 +1964,7 @@ markers:
   - {type: punctuation, offset: 3816, content: 」, id: KR2a0035_ZHSJ_034-bkkpn813}
   - {type: 'tls:seg', offset: 3816, content: '', id: KR2a0035_ZHSJ_034-d34p31s23}
   - {type: punctuation, offset: 3816, content: (, id: KR2a0035_ZHSJ_034-bkkpn814}
+  - {type: voice, offset: 3816, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 3819, content: 、, id: KR2a0035_ZHSJ_034-bkkpn815}
   - {type: punctuation, offset: 3824, content: ．, id: KR2a0035_ZHSJ_034-bkkpn816}
   - {type: 'tls:seg', offset: 3824, content: '', id: KR2a0035_ZHSJ_034-d34p31s24}
@@ -2016,4 +2019,4 @@ markers:
   - {type: variant, offset: 3905, length: 0, content: '', WYG: 金史卷三十四}
   - {type: variant, offset: 3905, length: 0, content: '', krp: 金史卷三十四}
   back: []
-hash: sha256:2233f5f75fd9183b2928e997403893adb50bc471fbfd4bd7cdf3bdfc33c8858f
+hash: sha256:185ae555628dcf412c6cae7187f353a65f93e0b57c1f6e0f94052a9f985f9597

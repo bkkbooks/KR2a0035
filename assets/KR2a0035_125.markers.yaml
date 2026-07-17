@@ -17,6 +17,7 @@ markers:
   - {type: line-break, offset: 17, content: '', id: ZHSJ__dup31377}
   - {type: indent, offset: 19, content: 　, id: KR2a0035_ZHSJ_125-bkkind1}
   - {type: punctuation, offset: 22, content: (, id: KR2a0035_ZHSJ_125-bkkpn1}
+  - {type: voice, offset: 22, length: 2, name: note, id: n1}
   - {type: substitution, offset: 23, original: 珪, replacement: 圭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20001}}
   - {type: punctuation, offset: 24, content: ), id: KR2a0035_ZHSJ_125-bkkpn2}
   - {type: indent, offset: 24, content: 　, id: KR2a0035_ZHSJ_125-bkkind2}
@@ -2968,4 +2969,4 @@ markers:
   - {type: page-break, offset: 5387, content: '', id: KR2a0035_WYG_125-18b, image: WYG0291/WYG0291-0709d.png}
   - {type: variant, offset: 5387, length: 0, content: '', krp: 金史卷一百二十五}
   back: []
-hash: sha256:6d222d369220b045f327f41bf9cef1ad41e4ba08c4321f91bce9e8ed210c1e8d
+hash: sha256:6cd67f8f86871ea686c21df2b3412f6e7e721766c9540312488d58401835edbc

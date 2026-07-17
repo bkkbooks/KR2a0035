@@ -2201,6 +2201,7 @@ markers:
   - {type: variant, offset: 4013, length: 1, content: 宮, krp: 宫}
   - {type: punctuation, offset: 4018, content: ：, id: KR2a0035_ZHSJ_039-bkkpn817}
   - {type: punctuation, offset: 4018, content: (, id: KR2a0035_ZHSJ_039-bkkpn818}
+  - {type: voice, offset: 4018, length: 4, name: note, id: n1}
   - {type: variant, offset: 4019, length: 1, content: 步, WYG: 歩}
   - {type: variant, offset: 4019, length: 1, content: 步, krp: 歩}
   - {type: punctuation, offset: 4022, content: ．, id: KR2a0035_ZHSJ_039-bkkpn819}
@@ -2917,6 +2918,7 @@ markers:
   - {type: punctuation, offset: 5036, content: ，, id: KR2a0035_ZHSJ_039-bkkpn1060}
   - {type: 'tls:seg', offset: 5036, content: '', id: KR2a0035_ZHSJ_039-d39p66s2}
   - {type: punctuation, offset: 5036, content: (, id: KR2a0035_ZHSJ_039-bkkpn1061}
+  - {type: voice, offset: 5036, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 5040, content: ．, id: KR2a0035_ZHSJ_039-bkkpn1062}
   - {type: 'tls:seg', offset: 5040, content: '', id: KR2a0035_ZHSJ_039-d39p66s3}
   - {type: punctuation, offset: 5040, content: ), id: KR2a0035_ZHSJ_039-bkkpn1063}
@@ -3018,4 +3020,4 @@ markers:
   - {type: variant, offset: 5182, length: 0, content: '', WYG: 金史卷三十九}
   - {type: variant, offset: 5182, length: 0, content: '', krp: 金史卷三十九}
   back: []
-hash: sha256:495fc1b03ad6e58790e5e0ae9ea918a3898018f675174eac3fb1da34a641ce2b
+hash: sha256:b7164385e2e0ff0111ee002f8855d76feaf5da00bf24c8972ffab6112550fd4d

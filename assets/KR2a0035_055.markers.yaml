@@ -4119,6 +4119,7 @@ markers:
   - {type: punctuation, offset: 6681, content: ．, id: KR2a0035_ZHSJ_055-bkkpn1629}
   - {type: 'tls:seg', offset: 6681, content: '', id: KR2a0035_ZHSJ_055-d55p181s3}
   - {type: punctuation, offset: 6681, content: (, id: KR2a0035_ZHSJ_055-bkkpn1630}
+  - {type: 'voice:problem', offset: 6681, length: 38, id: KR2a0035_bkk_055-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 6681, got ''('' at offset 6719'}
   - {type: punctuation, offset: 6687, content: ，, id: KR2a0035_ZHSJ_055-bkkpn1631}
   - {type: 'tls:seg', offset: 6687, content: '', id: KR2a0035_ZHSJ_055-d55p181s4}
   - {type: variant, offset: 6687, length: 1, content: 內, WYG: 内}
@@ -6091,4 +6092,4 @@ markers:
   - {type: page-break, offset: 9621, content: '', id: KR2a0035_WYG_055-29b, image: WYG0290/WYG0290-0675d.png}
   - {type: variant, offset: 9621, length: 0, content: '', krp: 金史巻五十五}
   back: []
-hash: sha256:80dbc84ffe19207ef8b04d3dd14d8933f747b9b3caae984013412054487e1d96
+hash: sha256:bb173bfa23749db1a6b70d2a626c8e7c246e2c2dceb59e2f3feab7f8b280aa43

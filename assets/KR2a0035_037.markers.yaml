@@ -1557,6 +1557,7 @@ markers:
   - {type: punctuation, offset: 2518, content: ．, id: KR2a0035_ZHSJ_037-bkkpn549}
   - {type: 'tls:seg', offset: 2518, content: '', id: KR2a0035_ZHSJ_037-d37p17s33}
   - {type: punctuation, offset: 2518, content: (, id: KR2a0035_ZHSJ_037-bkkpn550}
+  - {type: voice, offset: 2518, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 2523, content: ．, id: KR2a0035_ZHSJ_037-bkkpn551}
   - {type: 'tls:seg', offset: 2523, content: '', id: KR2a0035_ZHSJ_037-d37p17s34}
   - {type: punctuation, offset: 2523, content: ), id: KR2a0035_ZHSJ_037-bkkpn552}
@@ -1655,6 +1656,7 @@ markers:
   - {type: punctuation, offset: 2708, content: ．, id: KR2a0035_ZHSJ_037-bkkpn590}
   - {type: 'tls:seg', offset: 2708, content: '', id: KR2a0035_ZHSJ_037-d37p18s22}
   - {type: punctuation, offset: 2708, content: (, id: KR2a0035_ZHSJ_037-bkkpn591}
+  - {type: voice, offset: 2708, length: 8, name: note, id: n2}
   - {type: variant, offset: 2709, length: 1, content: 宮, WYG: 宫}
   - {type: variant, offset: 2709, length: 1, content: 宮, krp: 宫}
   - {type: substitution, offset: 2710, original: 冊, replacement: 册, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16267}}
@@ -3480,4 +3482,4 @@ markers:
   - {type: variant, offset: 5869, length: 0, content: '', WYG: 金史卷三十七}
   - {type: variant, offset: 5869, length: 0, content: '', krp: 金史卷三十七}
   back: []
-hash: sha256:30b905e537360a5281dcddbcf48c6ee1f8e4f131ef3d5b99e47d943c711a15d5
+hash: sha256:0148bb9151cb4b31f0b40fe9a6201767a7a33d0f6c3b6b6d4c28d53eccb015bd

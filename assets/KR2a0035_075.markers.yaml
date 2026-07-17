@@ -17,6 +17,7 @@ markers:
   - {type: variant, offset: 12, length: 1, content: 彥, WYG: 彦}
   - {type: variant, offset: 12, length: 1, content: 彥, krp: 彦}
   - {type: punctuation, offset: 14, content: (, id: KR2a0035_ZHSJ_075-bkkpn1}
+  - {type: voice, offset: 14, length: 5, name: note, id: n1}
   - {type: indent, offset: 16, content: 　, id: KR2a0035_ZHSJ_075-bkkind1}
   - {type: punctuation, offset: 19, content: ), id: KR2a0035_ZHSJ_075-bkkpn2}
   - {type: indent, offset: 19, content: 　, id: KR2a0035_ZHSJ_075-bkkind2}
@@ -29,11 +30,13 @@ markers:
   - {type: indent, offset: 33, content: 　, id: KR2a0035_ZHSJ_075-bkkind6}
   - {type: indent, offset: 36, content: 　, id: KR2a0035_ZHSJ_075-bkkind7}
   - {type: punctuation, offset: 39, content: (, id: KR2a0035_ZHSJ_075-bkkpn3}
+  - {type: voice, offset: 39, length: 7, name: note, id: n2}
   - {type: indent, offset: 42, content: 　, id: KR2a0035_ZHSJ_075-bkkind8}
   - {type: punctuation, offset: 46, content: ), id: KR2a0035_ZHSJ_075-bkkpn4}
   - {type: line-break, offset: 46, content: '', id: ZHSJ__dup19199}
   - {type: page-break, offset: 46, content: '', id: KR2a0035_WYG_075-1b, image: WYG0291/WYG0291-0126b.png}
   - {type: punctuation, offset: 48, content: (, id: KR2a0035_ZHSJ_075-bkkpn5}
+  - {type: voice, offset: 48, length: 5, name: note, id: n3}
   - {type: indent, offset: 50, content: 　, id: KR2a0035_ZHSJ_075-bkkind9}
   - {type: punctuation, offset: 53, content: ), id: KR2a0035_ZHSJ_075-bkkpn6}
   - {type: xml-element, offset: 53, content: '', id: KR2a0035_ZHSJ_075-bkkxmlele2}
@@ -2607,4 +2610,4 @@ markers:
   - {type: variant, offset: 4610, length: 0, content: '', WYG: 金史卷七十五}
   - {type: variant, offset: 4610, length: 0, content: '', krp: 金史卷七十五}
   back: []
-hash: sha256:cddd198968259bcd2a7ff154090c36101af0fa9cf012735a98cec7fb86d9358c
+hash: sha256:9642bfbfc57e25916bc259afc5b24f9bb87b63e1750c3dc79e013da569da6c26

@@ -41,10 +41,12 @@ markers:
   - {type: line-break, offset: 33, content: '', id: KR2a0035_WYG_065-1a07}
   - {type: indent, offset: 33, content: 　　, id: KR2a0035_krp_065-bkkind9}
   - {type: punctuation, offset: 36, content: (, id: KR2a0035_krp_065-bkkpn1}
+  - {type: voice, offset: 36, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 39, content: /, id: KR2a0035_krp_065-bkkpn2}
   - {type: punctuation, offset: 39, content: ), id: KR2a0035_krp_065-bkkpn3}
   - {type: indent, offset: 39, content: 　, id: KR2a0035_krp_065-bkkind10}
   - {type: punctuation, offset: 42, content: (, id: KR2a0035_krp_065-bkkpn4}
+  - {type: voice, offset: 42, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 45, content: /, id: KR2a0035_krp_065-bkkpn5}
   - {type: punctuation, offset: 45, content: ), id: KR2a0035_krp_065-bkkpn6}
   - {type: 'kr:newline', offset: 45, content: '
@@ -66,6 +68,7 @@ markers:
   - {type: indent, offset: 53, content: 　　　　, id: KR2a0035_krp_065-bkkind15}
   - {type: indent, offset: 54, content: 　, id: KR2a0035_krp_065-bkkind16}
   - {type: punctuation, offset: 55, content: (, id: KR2a0035_krp_065-bkkpn7}
+  - {type: voice, offset: 55, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 59, content: /, id: KR2a0035_krp_065-bkkpn8}
   - {type: punctuation, offset: 59, content: ), id: KR2a0035_krp_065-bkkpn9}
   - {type: 'kr:newline', offset: 59, content: '
@@ -75,10 +78,12 @@ markers:
   - {type: indent, offset: 59, content: 　　, id: KR2a0035_krp_065-bkkind17}
   - {type: indent, offset: 60, content: 　, id: KR2a0035_krp_065-bkkind18}
   - {type: punctuation, offset: 61, content: (, id: KR2a0035_krp_065-bkkpn10}
+  - {type: voice, offset: 61, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 65, content: /, id: KR2a0035_krp_065-bkkpn11}
   - {type: punctuation, offset: 65, content: ), id: KR2a0035_krp_065-bkkpn12}
   - {type: indent, offset: 66, content: 　, id: KR2a0035_krp_065-bkkind19}
   - {type: punctuation, offset: 67, content: (, id: KR2a0035_krp_065-bkkpn13}
+  - {type: voice, offset: 67, length: 6, name: note, id: n5}
   - {type: punctuation, offset: 71, content: /, id: KR2a0035_krp_065-bkkpn14}
   - {type: punctuation, offset: 71, content: ), id: KR2a0035_krp_065-bkkpn15}
   - {type: indent, offset: 71, content: 　, id: KR2a0035_krp_065-bkkind20}
@@ -99,11 +104,13 @@ markers:
   - {type: indent, offset: 78, content: 　　, id: KR2a0035_krp_065-bkkind24}
   - {type: indent, offset: 79, content: 　, id: KR2a0035_krp_065-bkkind25}
   - {type: punctuation, offset: 80, content: (, id: KR2a0035_krp_065-bkkpn19}
+  - {type: voice, offset: 80, length: 3, name: note, id: n6}
   - {type: punctuation, offset: 83, content: /, id: KR2a0035_krp_065-bkkpn20}
   - {type: punctuation, offset: 83, content: ), id: KR2a0035_krp_065-bkkpn21}
   - {type: indent, offset: 83, content: 　, id: KR2a0035_krp_065-bkkind26}
   - {type: indent, offset: 84, content: 　, id: KR2a0035_krp_065-bkkind27}
   - {type: punctuation, offset: 85, content: (, id: KR2a0035_krp_065-bkkpn22}
+  - {type: voice, offset: 85, length: 2, name: note, id: n7}
   - {type: punctuation, offset: 87, content: /, id: KR2a0035_krp_065-bkkpn23}
   - {type: punctuation, offset: 87, content: ), id: KR2a0035_krp_065-bkkpn24}
   - {type: 'kr:newline', offset: 87, content: '
@@ -112,6 +119,7 @@ markers:
   - {type: line-break, offset: 87, content: '', id: KR2a0035_WYG_065-1b05}
   - {type: indent, offset: 87, content: 　　, id: KR2a0035_krp_065-bkkind28}
   - {type: punctuation, offset: 88, content: (, id: KR2a0035_krp_065-bkkpn25}
+  - {type: voice, offset: 88, length: 7, name: note, id: n8}
   - {type: punctuation, offset: 92, content: /, id: KR2a0035_krp_065-bkkpn26}
   - {type: punctuation, offset: 95, content: ), id: KR2a0035_krp_065-bkkpn27}
   - {type: 'kr:newline', offset: 95, content: '
@@ -1573,4 +1581,4 @@ markers:
 
       ', id: KR2a0035_krp_065-bkkkrnewl377}
   back: []
-hash: sha256:c437c00dce3078e8e2dec6049176b3f991f7feb2a878281d28a0219c8d3b257b
+hash: sha256:83226adcd5df9832ef4f3501e696c9d1ea9bd7cbfe0271bafb8e13c37fde567b

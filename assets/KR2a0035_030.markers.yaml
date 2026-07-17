@@ -169,6 +169,7 @@ markers:
   - {type: punctuation, offset: 297, content: ．, id: KR2a0035_ZHSJ_030-bkkpn57}
   - {type: 'tls:seg', offset: 297, content: '', id: KR2a0035_ZHSJ_030-d30p3s16}
   - {type: punctuation, offset: 297, content: (, id: KR2a0035_ZHSJ_030-bkkpn58}
+  - {type: voice, offset: 297, length: 22, name: note, id: n1}
   - {type: punctuation, offset: 299, content: ：, id: KR2a0035_ZHSJ_030-bkkpn59}
   - {type: 'tls:seg', offset: 299, content: '', id: KR2a0035_ZHSJ_030-d30p3s17}
   - {type: punctuation, offset: 299, content: 「, id: KR2a0035_ZHSJ_030-bkkpn60}
@@ -1702,6 +1703,7 @@ markers:
   - {type: punctuation, offset: 3236, content: ，, id: KR2a0035_ZHSJ_030-bkkpn651}
   - {type: 'tls:seg', offset: 3236, content: '', id: KR2a0035_ZHSJ_030-d30p25s5}
   - {type: punctuation, offset: 3236, content: (, id: KR2a0035_ZHSJ_030-bkkpn652}
+  - {type: voice, offset: 3236, length: 4, name: note, id: n2}
   - {type: line-break, offset: 3239, content: '', id: ZHSJ__dup8877}
   - {type: punctuation, offset: 3240, content: ．, id: KR2a0035_ZHSJ_030-bkkpn653}
   - {type: 'tls:seg', offset: 3240, content: '', id: KR2a0035_ZHSJ_030-d30p25s6}
@@ -2970,6 +2972,7 @@ markers:
   - {type: punctuation, offset: 5355, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1158}
   - {type: 'tls:seg', offset: 5355, content: '', id: KR2a0035_ZHSJ_030-d30p37s10}
   - {type: punctuation, offset: 5355, content: (, id: KR2a0035_ZHSJ_030-bkkpn1159}
+  - {type: voice, offset: 5355, length: 4, name: note, id: n3}
   - {type: punctuation, offset: 5359, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1160}
   - {type: 'tls:seg', offset: 5359, content: '', id: KR2a0035_ZHSJ_030-d30p37s11}
   - {type: punctuation, offset: 5359, content: ), id: KR2a0035_ZHSJ_030-bkkpn1161}
@@ -3908,6 +3911,7 @@ markers:
   - {type: punctuation, offset: 6980, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1542}
   - {type: 'tls:seg', offset: 6980, content: '', id: KR2a0035_ZHSJ_030-d30p51s9}
   - {type: punctuation, offset: 6980, content: (, id: KR2a0035_ZHSJ_030-bkkpn1543}
+  - {type: voice, offset: 6980, length: 8, name: note, id: n4}
   - {type: variant, offset: 6983, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 6983, length: 1, content: 內, krp: 内}
   - {type: punctuation, offset: 6984, content: ，, id: KR2a0035_ZHSJ_030-bkkpn1544}
@@ -4157,6 +4161,7 @@ markers:
   - {type: punctuation, offset: 7425, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1637}
   - {type: 'tls:seg', offset: 7425, content: '', id: KR2a0035_ZHSJ_030-d30p53s20}
   - {type: punctuation, offset: 7425, content: (, id: KR2a0035_ZHSJ_030-bkkpn1638}
+  - {type: voice, offset: 7425, length: 8, name: note, id: n5}
   - {type: punctuation, offset: 7429, content: ，, id: KR2a0035_ZHSJ_030-bkkpn1639}
   - {type: 'tls:seg', offset: 7429, content: '', id: KR2a0035_ZHSJ_030-d30p53s21}
   - {type: punctuation, offset: 7433, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1640}
@@ -4227,6 +4232,7 @@ markers:
   - {type: punctuation, offset: 7544, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1666}
   - {type: 'tls:seg', offset: 7544, content: '', id: KR2a0035_ZHSJ_030-d30p53s44}
   - {type: punctuation, offset: 7544, content: (, id: KR2a0035_ZHSJ_030-bkkpn1667}
+  - {type: voice, offset: 7544, length: 6, name: note, id: n6}
   - {type: punctuation, offset: 7550, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1668}
   - {type: 'tls:seg', offset: 7550, content: '', id: KR2a0035_ZHSJ_030-d30p53s45}
   - {type: punctuation, offset: 7550, content: ), id: KR2a0035_ZHSJ_030-bkkpn1669}
@@ -4871,6 +4877,7 @@ markers:
   - {type: punctuation, offset: 8622, content: ，, id: KR2a0035_ZHSJ_030-bkkpn1934}
   - {type: 'tls:seg', offset: 8622, content: '', id: KR2a0035_ZHSJ_030-d30p59s2}
   - {type: punctuation, offset: 8622, content: (, id: KR2a0035_ZHSJ_030-bkkpn1935}
+  - {type: voice, offset: 8622, length: 4, name: note, id: n7}
   - {type: punctuation, offset: 8626, content: ．, id: KR2a0035_ZHSJ_030-bkkpn1936}
   - {type: 'tls:seg', offset: 8626, content: '', id: KR2a0035_ZHSJ_030-d30p59s3}
   - {type: punctuation, offset: 8626, content: ), id: KR2a0035_ZHSJ_030-bkkpn1937}
@@ -5026,4 +5033,4 @@ markers:
   - {type: variant, offset: 8864, length: 0, content: '', WYG: 金史卷三十}
   - {type: variant, offset: 8864, length: 0, content: '', krp: 金史卷三十}
   back: []
-hash: sha256:c6e59c9dea95066b306938e6e3caf2774ea3aaffabad20bb770cf52d4b542aac
+hash: sha256:ab9408dce75429c84593620fb7fb76524ca10bcc93132851b46fd016878da6a3

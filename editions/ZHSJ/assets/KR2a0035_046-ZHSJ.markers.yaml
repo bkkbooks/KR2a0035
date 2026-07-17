@@ -779,6 +779,7 @@ markers:
   - {type: punctuation, offset: 1961, content: ．, id: KR2a0035_ZHSJ_046-bkkpn357}
   - {type: 'tls:seg', offset: 1961, content: '', id: KR2a0035_ZHSJ_046-d46p13s34}
   - {type: punctuation, offset: 1961, content: (, id: KR2a0035_ZHSJ_046-bkkpn358}
+  - {type: voice, offset: 1961, length: 40, name: note, id: n1}
   - {type: punctuation, offset: 1967, content: ，, id: KR2a0035_ZHSJ_046-bkkpn359}
   - {type: 'tls:seg', offset: 1967, content: '', id: KR2a0035_ZHSJ_046-d46p13s35}
   - {type: punctuation, offset: 1973, content: 、, id: KR2a0035_ZHSJ_046-bkkpn360}
@@ -916,6 +917,7 @@ markers:
   - {type: punctuation, offset: 2325, content: ，, id: KR2a0035_ZHSJ_046-bkkpn418}
   - {type: 'tls:seg', offset: 2325, content: '', id: KR2a0035_ZHSJ_046-d46p17s12}
   - {type: punctuation, offset: 2325, content: (, id: KR2a0035_ZHSJ_046-bkkpn419}
+  - {type: voice, offset: 2325, length: 5, name: note, id: n2}
   - {type: punctuation, offset: 2330, content: ．, id: KR2a0035_ZHSJ_046-bkkpn420}
   - {type: 'tls:seg', offset: 2330, content: '', id: KR2a0035_ZHSJ_046-d46p17s13}
   - {type: punctuation, offset: 2330, content: ), id: KR2a0035_ZHSJ_046-bkkpn421}
@@ -1239,6 +1241,7 @@ markers:
   - {type: punctuation, offset: 3197, content: ，, id: KR2a0035_ZHSJ_046-bkkpn564}
   - {type: 'tls:seg', offset: 3197, content: '', id: KR2a0035_ZHSJ_046-d46p26s7}
   - {type: punctuation, offset: 3197, content: (, id: KR2a0035_ZHSJ_046-bkkpn565}
+  - {type: voice, offset: 3197, length: 32, name: note, id: n3}
   - {type: line-break, offset: 3212, content: '', id: ZHSJ__dup12493, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 3213, content: ，, id: KR2a0035_ZHSJ_046-bkkpn566}
   - {type: 'tls:seg', offset: 3213, content: '', id: KR2a0035_ZHSJ_046-d46p26s8}
@@ -1257,6 +1260,7 @@ markers:
   - {type: punctuation, offset: 3278, content: ，, id: KR2a0035_ZHSJ_046-bkkpn573}
   - {type: 'tls:seg', offset: 3278, content: '', id: KR2a0035_ZHSJ_046-d46p26s14}
   - {type: punctuation, offset: 3278, content: (, id: KR2a0035_ZHSJ_046-bkkpn574}
+  - {type: voice, offset: 3278, length: 18, name: note, id: n4}
   - {type: punctuation, offset: 3286, content: ，, id: KR2a0035_ZHSJ_046-bkkpn575}
   - {type: 'tls:seg', offset: 3286, content: '', id: KR2a0035_ZHSJ_046-d46p26s15}
   - {type: line-break, offset: 3290, content: '', id: ZHSJ__dup12495, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
@@ -1277,6 +1281,7 @@ markers:
   - {type: punctuation, offset: 3342, content: ，, id: KR2a0035_ZHSJ_046-bkkpn583}
   - {type: 'tls:seg', offset: 3342, content: '', id: KR2a0035_ZHSJ_046-d46p26s21}
   - {type: punctuation, offset: 3342, content: (, id: KR2a0035_ZHSJ_046-bkkpn584}
+  - {type: voice, offset: 3342, length: 23, name: note, id: n5}
   - {type: punctuation, offset: 3355, content: ，, id: KR2a0035_ZHSJ_046-bkkpn585}
   - {type: punctuation, offset: 3355, content: 〔三〕, id: KR2a0035_ZHSJ_046-bkkpn586}
   - {type: 'tls:seg', offset: 3355, content: '', id: KR2a0035_ZHSJ_046-d46p26s22}
@@ -1523,6 +1528,7 @@ markers:
   - {type: punctuation, offset: 4064, content: 〔五〕, id: KR2a0035_ZHSJ_046-bkkpn697}
   - {type: 'tls:seg', offset: 4064, content: '', id: KR2a0035_ZHSJ_046-d46p33s22}
   - {type: punctuation, offset: 4064, content: (, id: KR2a0035_ZHSJ_046-bkkpn698}
+  - {type: voice, offset: 4064, length: 35, name: note, id: n6}
   - {type: line-break, offset: 4070, content: '', id: ZHSJ__dup12520, _xml_error: duplicate-id, _xml_original_id: ZHSJ_}
   - {type: punctuation, offset: 4086, content: ，, id: KR2a0035_ZHSJ_046-bkkpn699}
   - {type: 'tls:seg', offset: 4086, content: '', id: KR2a0035_ZHSJ_046-d46p33s23}
@@ -2457,4 +2463,4 @@ markers:
   - {type: xml-element, offset: 6613, content: '', id: KR2a0035_ZHSJ_046-d46n1, name: note, role: open, attrs: {'xml:id': KR2a0035_ZHSJ_046-d46n1, type: text-crit}}
   - {type: xml-element, offset: 6613, content: '', id: KR2a0035_ZHSJ_046-d46n1_end, name: note, role: close, attrs: {'xml:id': KR2a0035_ZHSJ_046-d46n1, type: text-crit}}
   back: []
-hash: sha256:a4d68da1cca12ce44d9d0b211766f2bf99ad3eb91de9286404f96a9a58cd7726
+hash: sha256:cb2c64b3195e3f24e85497bb756da992eb733f2c4e4b5d1152ea07f883adec74

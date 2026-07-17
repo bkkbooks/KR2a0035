@@ -3911,6 +3911,7 @@ markers:
   - {type: punctuation, offset: 7479, content: ．, id: KR2a0035_ZHSJ_058-bkkpn1522}
   - {type: 'tls:seg', offset: 7479, content: '', id: KR2a0035_ZHSJ_058-d58p55s10}
   - {type: punctuation, offset: 7479, content: (, id: KR2a0035_ZHSJ_058-bkkpn1523}
+  - {type: 'voice:problem', offset: 7479, length: 28, id: KR2a0035_bkk_058-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 7479, got ''('' at offset 7507'}
   - {type: variant, offset: 7482, length: 1, content: 保, WYG: 堡}
   - {type: variant, offset: 7482, length: 1, content: 保, krp: 堡}
   - {type: punctuation, offset: 7485, content: ．, id: KR2a0035_ZHSJ_058-bkkpn1524}
@@ -4283,4 +4284,4 @@ markers:
   - {type: page-break, offset: 8130, content: '', id: KR2a0035_WYG_058-25b, image: WYG0290/WYG0290-0715d.png}
   - {type: variant, offset: 8130, length: 0, content: '', krp: 金史卷五十八}
   back: []
-hash: sha256:feb6c2db2c4b6ba6538026b39d5f76a26aabc7b13cf91d2ca156138703cd1f2d
+hash: sha256:c45ea30688a909fd452a07637892516acae552a134fa127f8a660cc8cf4cc300

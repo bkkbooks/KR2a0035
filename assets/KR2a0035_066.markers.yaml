@@ -16,6 +16,7 @@ markers:
   - {type: line-break, offset: 10, content: '', id: ZHSJ__dup17292}
   - {type: line-break, offset: 16, content: '', id: ZHSJ__dup17293}
   - {type: punctuation, offset: 17, content: (, id: KR2a0035_ZHSJ_066-bkkpn1}
+  - {type: voice, offset: 17, length: 7, name: note, id: n1}
   - {type: variant, offset: 20, length: 1, content: 野, WYG: 頁}
   - {type: variant, offset: 20, length: 1, content: 野, krp: 頁}
   - {type: indent, offset: 21, content: 　, id: KR2a0035_ZHSJ_066-bkkind1}
@@ -40,6 +41,7 @@ markers:
   - {type: variant, offset: 32, length: 1, content: 住, krp: 卓}
   - {type: indent, offset: 33, content: 　, id: KR2a0035_ZHSJ_066-bkkind4}
   - {type: punctuation, offset: 33, content: (, id: KR2a0035_ZHSJ_066-bkkpn3}
+  - {type: voice, offset: 33, length: 3, name: note, id: n2}
   - {type: variant, offset: 35, length: 1, content: 輝, WYG: 呼}
   - {type: variant, offset: 35, length: 1, content: 輝, krp: 呼}
   - {type: punctuation, offset: 36, content: ), id: KR2a0035_ZHSJ_066-bkkpn4}
@@ -50,6 +52,7 @@ markers:
   - {type: variant, offset: 37, length: 1, content: 保, krp: 布}
   - {type: indent, offset: 38, content: 　, id: KR2a0035_ZHSJ_066-bkkind6}
   - {type: punctuation, offset: 39, content: (, id: KR2a0035_ZHSJ_066-bkkpn5}
+  - {type: voice, offset: 39, length: 4, name: note, id: n3}
   - {type: variant, offset: 41, length: 1, content: 醜, WYG: 綽}
   - {type: variant, offset: 41, length: 1, content: 醜, krp: 綽}
   - {type: variant, offset: 42, length: 1, content: 漢, WYG: 哈}
@@ -57,6 +60,7 @@ markers:
   - {type: punctuation, offset: 43, content: ), id: KR2a0035_ZHSJ_066-bkkpn6}
   - {type: indent, offset: 43, content: 　, id: KR2a0035_ZHSJ_066-bkkind7}
   - {type: punctuation, offset: 44, content: (, id: KR2a0035_ZHSJ_066-bkkpn7}
+  - {type: voice, offset: 44, length: 4, name: note, id: n4}
   - {type: variant, offset: 46, length: 1, content: 掃, WYG: 素}
   - {type: variant, offset: 46, length: 1, content: 掃, krp: 素}
   - {type: variant, offset: 47, length: 1, content: 合, WYG: 赫}
@@ -76,6 +80,7 @@ markers:
   - {type: variant, offset: 52, length: 1, content: 改, krp: 哈}
   - {type: line-break, offset: 53, content: '', id: ZHSJ__dup17296}
   - {type: punctuation, offset: 55, content: (, id: KR2a0035_ZHSJ_066-bkkpn9}
+  - {type: voice, offset: 55, length: 4, name: note, id: n5}
   - {type: variant, offset: 58, length: 1, content: 魯, WYG: 嚕}
   - {type: page-break, offset: 58, content: '', id: KR2a0035_WYG_066-1b, image: WYG0291/WYG0291-0037b.png}
   - {type: variant, offset: 58, length: 1, content: 魯, krp: 嚕}
@@ -87,6 +92,7 @@ markers:
   - {type: variant, offset: 60, length: 1, content: 懶, krp: 蘭}
   - {type: indent, offset: 61, content: 　, id: KR2a0035_ZHSJ_066-bkkind11}
   - {type: punctuation, offset: 62, content: (, id: KR2a0035_ZHSJ_066-bkkpn11}
+  - {type: voice, offset: 62, length: 9, name: note, id: n6}
   - {type: variant, offset: 64, length: 2, content: 吾母, WYG: 鄂摩􅰇}
   - {type: variant, offset: 64, length: 2, content: 吾母, krp: 鄂摩􅰇}
   - {type: punctuation, offset: 66, content: ), id: KR2a0035_ZHSJ_066-bkkpn12}
@@ -105,6 +111,7 @@ markers:
   - {type: variant, offset: 71, length: 1, content: 弈, krp: 奕}
   - {type: substitution, offset: 71, original: 弈, replacement: 奕, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20422}}
   - {type: punctuation, offset: 72, content: (, id: KR2a0035_ZHSJ_066-bkkpn16}
+  - {type: voice, offset: 72, length: 4, name: note, id: n7}
   - {type: variant, offset: 75, length: 1, content: 寶, WYG: 寳}
   - {type: variant, offset: 75, length: 1, content: 寶, krp: 寳}
   - {type: punctuation, offset: 76, content: ), id: KR2a0035_ZHSJ_066-bkkpn17}
@@ -3421,4 +3428,4 @@ markers:
   - {type: page-break, offset: 5247, content: '', id: KR2a0035_WYG_066-17b, image: WYG0291/WYG0291-0045b.png}
   - {type: variant, offset: 5247, length: 0, content: '', krp: 金史卷六十六}
   back: []
-hash: sha256:4742db2f86cebe99588e08a1c8a98b581c23ae6b4ba36bba6a1934705359211c
+hash: sha256:3164f51a0cd621793925ded4cb5367863b4b7ec20b9ff65f3bc04a93bf9e860b

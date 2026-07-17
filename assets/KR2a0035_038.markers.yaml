@@ -1160,6 +1160,7 @@ markers:
   - {type: punctuation, offset: 2099, content: ．, id: KR2a0035_ZHSJ_038-bkkpn459}
   - {type: 'tls:seg', offset: 2099, content: '', id: KR2a0035_ZHSJ_038-d38p18s19}
   - {type: punctuation, offset: 2103, content: (, id: KR2a0035_ZHSJ_038-bkkpn460}
+  - {type: voice, offset: 2103, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 2108, content: ，, id: KR2a0035_ZHSJ_038-bkkpn461}
   - {type: 'tls:seg', offset: 2108, content: '', id: KR2a0035_ZHSJ_038-d38p18s20}
   - {type: punctuation, offset: 2114, content: ．, id: KR2a0035_ZHSJ_038-bkkpn462}
@@ -1731,6 +1732,7 @@ markers:
   - {type: punctuation, offset: 3261, content: ，, id: KR2a0035_ZHSJ_038-bkkpn702}
   - {type: 'tls:seg', offset: 3261, content: '', id: KR2a0035_ZHSJ_038-d38p22s17}
   - {type: punctuation, offset: 3261, content: (, id: KR2a0035_ZHSJ_038-bkkpn703}
+  - {type: voice, offset: 3261, length: 8, name: note, id: n2}
   - {type: variant, offset: 3266, length: 1, content: 內, WYG: 内}
   - {type: variant, offset: 3266, length: 1, content: 內, krp: 内}
   - {type: punctuation, offset: 3269, content: ．, id: KR2a0035_ZHSJ_038-bkkpn704}
@@ -1759,6 +1761,7 @@ markers:
   - {type: punctuation, offset: 3291, content: ，, id: KR2a0035_ZHSJ_038-bkkpn713}
   - {type: 'tls:seg', offset: 3291, content: '', id: KR2a0035_ZHSJ_038-d38p22s25}
   - {type: punctuation, offset: 3291, content: (, id: KR2a0035_ZHSJ_038-bkkpn714}
+  - {type: voice, offset: 3291, length: 5, name: note, id: n3}
   - {type: punctuation, offset: 3296, content: ．, id: KR2a0035_ZHSJ_038-bkkpn715}
   - {type: 'tls:seg', offset: 3296, content: '', id: KR2a0035_ZHSJ_038-d38p22s26}
   - {type: punctuation, offset: 3296, content: ), id: KR2a0035_ZHSJ_038-bkkpn716}
@@ -3344,4 +3347,4 @@ markers:
   - {type: page-break, offset: 6036, content: '', id: KR2a0035_WYG_038-19b, image: WYG0290/WYG0290-0474b.png}
   - {type: variant, offset: 6036, length: 0, content: '', krp: 金史卷三十八}
   back: []
-hash: sha256:57b8fb9f0e75f38bfd626990062351f9293943b820a9489bff5f6145f26ef91f
+hash: sha256:f729d784fd21e49600aa4795f7b81cf56e15892fe8aa3ba20f92eaab82789682

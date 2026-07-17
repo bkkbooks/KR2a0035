@@ -50,6 +50,7 @@ markers:
   - {type: punctuation, offset: 130, content: (, id: KR2a0035_ZHSJ_063-bkkpn1}
   - {type: variant, offset: 130, length: 2, content: 海陵, WYG: ''}
   - {type: variant, offset: 130, length: 2, content: 海陵, krp: ''}
+  - {type: voice, offset: 130, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 135, content: ), id: KR2a0035_ZHSJ_063-bkkpn2}
   - {type: xml-element, offset: 135, content: '', id: KR2a0035_ZHSJ_063-bkkxmlele2}
   - {type: xml-element, offset: 135, content: '', id: KR2a0035_ZHSJ_063-bkkxmlele3}
@@ -4896,4 +4897,4 @@ markers:
   - {type: page-break, offset: 7358, content: '', id: KR2a0035_WYG_063-24b, image: WYG0291/WYG0291-0013b.png}
   - {type: variant, offset: 7358, length: 0, content: '', krp: 金史卷六十三}
   back: []
-hash: sha256:592195de241b371c80c32cff042866819788059d0e4f4ede9b8116c9fac87beb
+hash: sha256:daf04847253de816f0bb70d49c5556bd3fd72e46f5624554df705caa1ac535c6

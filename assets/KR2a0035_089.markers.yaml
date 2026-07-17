@@ -18,6 +18,7 @@ markers:
   - {type: indent, offset: 18, content: 　, id: KR2a0035_ZHSJ_089-bkkind2}
   - {type: indent, offset: 21, content: 　, id: KR2a0035_ZHSJ_089-bkkind3}
   - {type: punctuation, offset: 23, content: (, id: KR2a0035_ZHSJ_089-bkkpn1}
+  - {type: voice, offset: 23, length: 3, name: note, id: n1}
   - {type: variant, offset: 24, length: 1, content: 瑴, WYG: 㲄}
   - {type: variant, offset: 24, length: 1, content: 瑴, krp: 㲄}
   - {type: punctuation, offset: 26, content: ), id: KR2a0035_ZHSJ_089-bkkpn2}
@@ -4188,4 +4189,4 @@ markers:
   - {type: page-break, offset: 7408, content: '', id: KR2a0035_WYG_089-23b, image: WYG0291/WYG0291-0283b.png}
   - {type: variant, offset: 7408, length: 0, content: '', krp: 金史卷八十九}
   back: []
-hash: sha256:8b48bc01793e3104d0921ab38ccd4f47abcd10116f7cbbdc584b763e0fa2d2cd
+hash: sha256:f3ab6b19337570992586af6e26ad3e21aa90d32a4f010d12316d16ed76512bd2

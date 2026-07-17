@@ -26,6 +26,7 @@ markers:
   - {type: variant, offset: 18, length: 1, content: 顏, WYG: 顔}
   - {type: variant, offset: 18, length: 1, content: 顏, krp: 顔}
   - {type: punctuation, offset: 21, content: (, id: KR2a0035_ZHSJ_088-bkkpn1}
+  - {type: voice, offset: 21, length: 5, name: note, id: n1}
   - {type: variant, offset: 23, length: 1, content: 習, WYG: 實}
   - {type: variant, offset: 23, length: 1, content: 習, krp: 實}
   - {type: variant, offset: 24, length: 1, content: 尼, WYG: 訥}
@@ -46,6 +47,7 @@ markers:
   - {type: variant, offset: 32, length: 2, content: 移剌, WYG: 本名烏楞古伊喇}
   - {type: variant, offset: 32, length: 2, content: 移剌, krp: 本名烏楞古伊喇}
   - {type: punctuation, offset: 35, content: (, id: KR2a0035_ZHSJ_088-bkkpn4}
+  - {type: voice, offset: 35, length: 7, name: note, id: n2}
   - {type: indent, offset: 39, content: 　, id: KR2a0035_ZHSJ_088-bkkind4}
   - {type: punctuation, offset: 42, content: ), id: KR2a0035_ZHSJ_088-bkkpn5}
   - {type: xml-element, offset: 42, content: '', id: KR2a0035_ZHSJ_088-bkkxmlele4}
@@ -5495,4 +5497,4 @@ markers:
   - {type: variant, offset: 9528, length: 0, content: '', WYG: 金史卷八十八}
   - {type: variant, offset: 9528, length: 0, content: '', krp: 金史卷八十八}
   back: []
-hash: sha256:971bdec3cdc4893b1fc2904c1c14c18f4643fba3641c9029eb8b3f44211389ff
+hash: sha256:f098b6fdb96eb23ab5c3ba5f46bd6fa2bce4f770f7dea3d498873e0e0ccc7181

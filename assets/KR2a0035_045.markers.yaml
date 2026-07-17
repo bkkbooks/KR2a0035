@@ -1954,6 +1954,7 @@ markers:
   - {type: variant, offset: 3754, length: 1, content: 奧, krp: 鄂}
   - {type: punctuation, offset: 3758, content: 、, id: KR2a0035_ZHSJ_045-bkkpn733}
   - {type: punctuation, offset: 3758, content: (, id: KR2a0035_ZHSJ_045-bkkpn734}
+  - {type: voice, offset: 3758, length: 4, name: note, id: n1}
   - {type: variant, offset: 3760, length: 1, content: 牙, WYG: 雅}
   - {type: variant, offset: 3760, length: 1, content: 牙, krp: 雅}
   - {type: variant, offset: 3761, length: 1, content: 哥, WYG: 格}
@@ -2599,4 +2600,4 @@ markers:
   - {type: page-break, offset: 5094, content: '', id: KR2a0035_WYG_045-16b, image: WYG0290/WYG0290-0555b.png}
   - {type: variant, offset: 5094, length: 0, content: '', krp: 金史卷四十五}
   back: []
-hash: sha256:87d1e1261fd9b9f87da648440dbf5d4da3a036055ed1082f0e9d7c01d49bff81
+hash: sha256:aee257b1e97e0499972b43d43061e2a6a9c686979718e7e469098c753438c26c

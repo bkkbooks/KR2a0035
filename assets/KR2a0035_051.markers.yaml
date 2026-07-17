@@ -800,6 +800,7 @@ markers:
   - {type: punctuation, offset: 1730, content: ．, id: KR2a0035_ZHSJ_051-bkkpn289}
   - {type: 'tls:seg', offset: 1730, content: '', id: KR2a0035_ZHSJ_051-d51p11s74}
   - {type: punctuation, offset: 1730, content: (, id: KR2a0035_ZHSJ_051-bkkpn290}
+  - {type: voice, offset: 1730, length: 79, name: note, id: n1}
   - {type: punctuation, offset: 1732, content: 、, id: KR2a0035_ZHSJ_051-bkkpn291}
   - {type: line-break, offset: 1733, content: '', id: ZHSJ__dup13743}
   - {type: punctuation, offset: 1734, content: 、, id: KR2a0035_ZHSJ_051-bkkpn292}
@@ -844,6 +845,7 @@ markers:
   - {type: punctuation, offset: 1822, content: ．, id: KR2a0035_ZHSJ_051-bkkpn318}
   - {type: 'tls:seg', offset: 1822, content: '', id: KR2a0035_ZHSJ_051-d51p11s83}
   - {type: punctuation, offset: 1822, content: (, id: KR2a0035_ZHSJ_051-bkkpn319}
+  - {type: voice, offset: 1822, length: 46, name: note, id: n2}
   - {type: punctuation, offset: 1823, content: 、, id: KR2a0035_ZHSJ_051-bkkpn320}
   - {type: punctuation, offset: 1824, content: 、, id: KR2a0035_ZHSJ_051-bkkpn321}
   - {type: variant, offset: 1824, length: 1, content: 衞, WYG: 衛}
@@ -880,6 +882,7 @@ markers:
   - {type: punctuation, offset: 1882, content: ．, id: KR2a0035_ZHSJ_051-bkkpn339}
   - {type: 'tls:seg', offset: 1882, content: '', id: KR2a0035_ZHSJ_051-d51p11s90}
   - {type: punctuation, offset: 1882, content: (, id: KR2a0035_ZHSJ_051-bkkpn340}
+  - {type: voice, offset: 1882, length: 16, name: note, id: n3}
   - {type: punctuation, offset: 1883, content: 、, id: KR2a0035_ZHSJ_051-bkkpn341}
   - {type: variant, offset: 1883, length: 1, content: 德, WYG: 徳}
   - {type: variant, offset: 1883, length: 1, content: 德, krp: 徳}
@@ -1060,6 +1063,7 @@ markers:
   - {type: punctuation, offset: 2172, content: ．, id: KR2a0035_ZHSJ_051-bkkpn405}
   - {type: 'tls:seg', offset: 2172, content: '', id: KR2a0035_ZHSJ_051-d51p12s31}
   - {type: punctuation, offset: 2172, content: (, id: KR2a0035_ZHSJ_051-bkkpn406}
+  - {type: voice, offset: 2172, length: 16, name: note, id: n4}
   - {type: punctuation, offset: 2174, content: 、, id: KR2a0035_ZHSJ_051-bkkpn407}
   - {type: variant, offset: 2174, length: 1, content: 陝, WYG: 陜}
   - {type: variant, offset: 2174, length: 1, content: 陝, krp: 陜}
@@ -4714,4 +4718,4 @@ markers:
   - {type: page-break, offset: 9667, content: '', id: KR2a0035_WYG_051-30b, image: WYG0290/WYG0290-0630b.png}
   - {type: variant, offset: 9667, length: 0, content: '', krp: 金史巻五十一}
   back: []
-hash: sha256:89d621d96d126c5ddaa7aaf16f213a6c91e44fc73a1ad26842c99dbf0af9371b
+hash: sha256:9c8c757cfa80b1da5aa8387741d228fa71003d9a978e5ecb9f8f5a72d4beec94
